@@ -10,21 +10,13 @@
     margin: 0 !important;
 }
 
-.stroke {
-  fill: none;
-  stroke: #000;
-  stroke-width: 3px;
-}
+.map-wrapper{
+  position: relative;
+  float: left;
 
-.fill {
-  fill: #fff;
-}
-
-.graticule {
-  fill: none;
-  stroke: #777;
-  stroke-width: .5px;
-  stroke-opacity: .5;
+  div{
+    position: absolute;
+  }
 }
 
 .land {
@@ -35,4 +27,36 @@
   fill: none;
   stroke: #fff;
   stroke-width: .5px;
+}
+
+.North-America{
+  fill:blue;
+}
+
+.South-America{
+  fill:green;
+}
+
+.Europe{
+  fill:red;
+}
+
+.Africa{
+  fill:Orange;
+}
+
+.Asia{
+  fill:black;
+}
+
+.Seven-seas-open-ocean{
+  fill:pink;
+}
+
+.Oceania{
+  fill:purple;
+}
+
+.Antarctica{
+  fill:white;
 }
