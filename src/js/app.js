@@ -17,7 +17,7 @@ var padding = 30
 
 var years = d3.range(2015, 2018 + 1, 1)
 var yearIndex = -1
-var year = 2016
+var year = 2015
 
 var projection = d3.geoMercator()
     //.parallels([33, 45])
