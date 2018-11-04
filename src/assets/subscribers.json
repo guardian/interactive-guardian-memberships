@@ -1,0 +1,9061 @@
+{
+  "nodes": [
+    {
+      "continent": "Asia",
+      "country": "Indonesia",
+      "code": "IDN",
+      "lon": 117.27888415827475,
+      "lat": -2.235507046746287,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 9
+        },
+        {
+          "year": 2016,
+          "subs": 23
+        },
+        {
+          "year": 2017,
+          "subs": 143
+        },
+        {
+          "year": 2018,
+          "subs": 313
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Malaysia",
+      "code": "MYS",
+      "lon": 109.69957936950219,
+      "lat": 3.796175617044791,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 26
+        },
+        {
+          "year": 2016,
+          "subs": 103
+        },
+        {
+          "year": 2017,
+          "subs": 470
+        },
+        {
+          "year": 2018,
+          "subs": 858
+        }
+      ]
+    },
+    {
+      "continent": "South America",
+      "country": "Chile",
+      "code": "CHL",
+      "lon": -71.50422307157177,
+      "lat": -40.33996156181048,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 17
+        },
+        {
+          "year": 2016,
+          "subs": 48
+        },
+        {
+          "year": 2017,
+          "subs": 211
+        },
+        {
+          "year": 2018,
+          "subs": 318
+        }
+      ]
+    },
+    {
+      "continent": "South America",
+      "country": "Bolivia",
+      "code": "BOL",
+      "lon": -64.6788119340615,
+      "lat": -16.775060491836925,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 7
+        },
+        {
+          "year": 2018,
+          "subs": 17
+        }
+      ]
+    },
+    {
+      "continent": "South America",
+      "country": "Peru",
+      "code": "PER",
+      "lon": -74.3585349450494,
+      "lat": -9.23877673680977,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 8
+        },
+        {
+          "year": 2016,
+          "subs": 15
+        },
+        {
+          "year": 2017,
+          "subs": 61
+        },
+        {
+          "year": 2018,
+          "subs": 126
+        }
+      ]
+    },
+    {
+      "continent": "South America",
+      "country": "Argentina",
+      "code": "ARG",
+      "lon": -65.4195933363957,
+      "lat": -36.622610772595806,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 16
+        },
+        {
+          "year": 2016,
+          "subs": 30
+        },
+        {
+          "year": 2017,
+          "subs": 175
+        },
+        {
+          "year": 2018,
+          "subs": 269
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Dhekelia",
+      "code": "-99",
+      "lon": 33.79304772284953,
+      "lat": 35.01793847355146,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Cyprus",
+      "code": "CYP",
+      "lon": 32.9900235623214,
+      "lat": 34.91548353435178,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 9
+        },
+        {
+          "year": 2016,
+          "subs": 32
+        },
+        {
+          "year": 2017,
+          "subs": 175
+        },
+        {
+          "year": 2018,
+          "subs": 264
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "India",
+      "code": "IND",
+      "lon": 79.63144071631378,
+      "lat": 23.21775314259685,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 29
+        },
+        {
+          "year": 2016,
+          "subs": 144
+        },
+        {
+          "year": 2017,
+          "subs": 1286
+        },
+        {
+          "year": 2018,
+          "subs": 2958
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "China",
+      "code": "CHN",
+      "lon": 104.15908882745396,
+      "lat": 37.58857852577752,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 10
+        },
+        {
+          "year": 2016,
+          "subs": 51
+        },
+        {
+          "year": 2017,
+          "subs": 203
+        },
+        {
+          "year": 2018,
+          "subs": 321
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Israel",
+      "code": "ISR",
+      "lon": 34.99815557357704,
+      "lat": 31.459214195282215,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 21
+        },
+        {
+          "year": 2016,
+          "subs": 73
+        },
+        {
+          "year": 2017,
+          "subs": 459
+        },
+        {
+          "year": 2018,
+          "subs": 863
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Palestine",
+      "code": "PSE",
+      "lon": 35.19819656644515,
+      "lat": 31.917910275990245,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 2
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Lebanon",
+      "code": "LBN",
+      "lon": 35.88114044556296,
+      "lat": 33.92326138395065,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 6
+        },
+        {
+          "year": 2017,
+          "subs": 63
+        },
+        {
+          "year": 2018,
+          "subs": 121
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Ethiopia",
+      "code": "ETH",
+      "lon": 39.59581041025895,
+      "lat": 8.653068847798723,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 5
+        },
+        {
+          "year": 2016,
+          "subs": 7
+        },
+        {
+          "year": 2017,
+          "subs": 11
+        },
+        {
+          "year": 2018,
+          "subs": 13
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "S. Sudan",
+      "code": "SSD",
+      "lon": 30.29935349651223,
+      "lat": 7.2949976893078174,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Somalia",
+      "code": "SOM",
+      "lon": 45.720201269817395,
+      "lat": 4.77389488123916,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 3
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Kenya",
+      "code": "KEN",
+      "lon": 37.822447738587414,
+      "lat": 0.5517908543102775,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 24
+        },
+        {
+          "year": 2016,
+          "subs": 31
+        },
+        {
+          "year": 2017,
+          "subs": 109
+        },
+        {
+          "year": 2018,
+          "subs": 171
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Pakistan",
+      "code": "PAK",
+      "lon": 69.42984339812492,
+      "lat": 30.120032960668766,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 4
+        },
+        {
+          "year": 2016,
+          "subs": 14
+        },
+        {
+          "year": 2017,
+          "subs": 54
+        },
+        {
+          "year": 2018,
+          "subs": 96
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Malawi",
+      "code": "MWI",
+      "lon": 34.29317936662056,
+      "lat": -13.23927077281655,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 7
+        },
+        {
+          "year": 2016,
+          "subs": 11
+        },
+        {
+          "year": 2017,
+          "subs": 14
+        },
+        {
+          "year": 2018,
+          "subs": 13
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Tanzania",
+      "code": "TZA",
+      "lon": 34.81929608001203,
+      "lat": -6.29574729367754,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 9
+        },
+        {
+          "year": 2016,
+          "subs": 15
+        },
+        {
+          "year": 2017,
+          "subs": 24
+        },
+        {
+          "year": 2018,
+          "subs": 33
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Syria",
+      "code": "SYR",
+      "lon": 38.514586194951335,
+      "lat": 35.04759309299487,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Somaliland",
+      "code": "-99",
+      "lon": 46.25430371650339,
+      "lat": 9.73373576260268,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "France",
+      "code": "-99",
+      "lon": -1.2259703393269978,
+      "lat": 44.16618313155741,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "South America",
+      "country": "Suriname",
+      "code": "SUR",
+      "lon": -55.91102524340337,
+      "lat": 4.133226544359216,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "South America",
+      "country": "Guyana",
+      "code": "GUY",
+      "lon": -58.98116039114379,
+      "lat": 4.800732484828668,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 5
+        },
+        {
+          "year": 2018,
+          "subs": 10
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "South Korea",
+      "code": "KOR",
+      "lon": 127.82125001961278,
+      "lat": 36.39610228614655,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 11
+        },
+        {
+          "year": 2016,
+          "subs": 44
+        },
+        {
+          "year": 2017,
+          "subs": 181
+        },
+        {
+          "year": 2018,
+          "subs": 287
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "North Korea",
+      "code": "PRK",
+      "lon": 127.20068179082733,
+      "lat": 40.18349083573253,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Morocco",
+      "code": "MAR",
+      "lon": -8.265710190128237,
+      "lat": 30.038520321340766,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 5
+        },
+        {
+          "year": 2016,
+          "subs": 6
+        },
+        {
+          "year": 2017,
+          "subs": 21
+        },
+        {
+          "year": 2018,
+          "subs": 30
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "W. Sahara",
+      "code": "ESH",
+      "lon": -12.189235810300316,
+      "lat": 24.276021413937723,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Costa Rica",
+      "code": "CRI",
+      "lon": -84.19471951276032,
+      "lat": 9.975241483345016,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 6
+        },
+        {
+          "year": 2016,
+          "subs": 16
+        },
+        {
+          "year": 2017,
+          "subs": 88
+        },
+        {
+          "year": 2018,
+          "subs": 125
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Nicaragua",
+      "code": "NIC",
+      "lon": -85.03259521176983,
+      "lat": 12.851291184065575,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 3
+        },
+        {
+          "year": 2017,
+          "subs": 10
+        },
+        {
+          "year": 2018,
+          "subs": 15
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Congo",
+      "code": "COG",
+      "lon": 15.217609808061939,
+      "lat": -0.8408235804782982,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Dem. Rep. Congo",
+      "code": "COD",
+      "lon": 23.648840046956895,
+      "lat": -2.9071590500391298,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 4
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Bhutan",
+      "code": "BTN",
+      "lon": 90.40432421479156,
+      "lat": 27.423818170920853,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 2
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Ukraine",
+      "code": "UKR",
+      "lon": 31.22413168516957,
+      "lat": 49.22634560628671,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 8
+        },
+        {
+          "year": 2017,
+          "subs": 51
+        },
+        {
+          "year": 2018,
+          "subs": 172
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Belarus",
+      "code": "BLR",
+      "lon": 28.042432835974306,
+      "lat": 53.57878383688645,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 4
+        },
+        {
+          "year": 2018,
+          "subs": 17
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Namibia",
+      "code": "NAM",
+      "lon": 17.218486088277242,
+      "lat": -22.24426633768972,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 2
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 13
+        },
+        {
+          "year": 2018,
+          "subs": 25
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "South Africa",
+      "code": "ZAF",
+      "lon": 25.033907875735267,
+      "lat": -29.12773246867997,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 52
+        },
+        {
+          "year": 2016,
+          "subs": 130
+        },
+        {
+          "year": 2017,
+          "subs": 796
+        },
+        {
+          "year": 2018,
+          "subs": 1246
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "St-Martin",
+      "code": "MAF",
+      "lon": -63.05501896336063,
+      "lat": 18.077644226183114,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Sint Maarten",
+      "code": "SXM",
+      "lon": -63.070089829752256,
+      "lat": 18.04069451246463,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 2
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Oman",
+      "code": "OMN",
+      "lon": 56.10733818769973,
+      "lat": 20.643864174788845,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 9
+        },
+        {
+          "year": 2017,
+          "subs": 50
+        },
+        {
+          "year": 2018,
+          "subs": 74
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Uzbekistan",
+      "code": "UZB",
+      "lon": 63.05784137261031,
+      "lat": 41.833613537214724,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 2
+        },
+        {
+          "year": 2018,
+          "subs": 3
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Kazakhstan",
+      "code": "KAZ",
+      "lon": 67.32587361682089,
+      "lat": 48.44028820680247,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 14
+        },
+        {
+          "year": 2018,
+          "subs": 31
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Tajikistan",
+      "code": "TJK",
+      "lon": 71.0090635192536,
+      "lat": 38.545613026561064,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 3
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Lithuania",
+      "code": "LTU",
+      "lon": 23.883305950597105,
+      "lat": 55.34120572507245,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 8
+        },
+        {
+          "year": 2017,
+          "subs": 58
+        },
+        {
+          "year": 2018,
+          "subs": 130
+        }
+      ]
+    },
+    {
+      "continent": "South America",
+      "country": "Brazil",
+      "code": "BRA",
+      "lon": -53.030045170048645,
+      "lat": -11.18026049384923,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 46
+        },
+        {
+          "year": 2016,
+          "subs": 146
+        },
+        {
+          "year": 2017,
+          "subs": 1104
+        },
+        {
+          "year": 2018,
+          "subs": 1859
+        }
+      ]
+    },
+    {
+      "continent": "South America",
+      "country": "Uruguay",
+      "code": "URY",
+      "lon": -56.01360478533562,
+      "lat": -32.82018014459956,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 2
+        },
+        {
+          "year": 2016,
+          "subs": 8
+        },
+        {
+          "year": 2017,
+          "subs": 64
+        },
+        {
+          "year": 2018,
+          "subs": 95
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Mongolia",
+      "code": "MNG",
+      "lon": 103.01811303094878,
+      "lat": 46.962559654308386,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 8
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Russia",
+      "code": "RUS",
+      "lon": 97.80651186599117,
+      "lat": 64.83781759208048,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 12
+        },
+        {
+          "year": 2017,
+          "subs": 158
+        },
+        {
+          "year": 2018,
+          "subs": 449
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Czechia",
+      "code": "CZE",
+      "lon": 15.310519537746245,
+      "lat": 49.741380772552965,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 15
+        },
+        {
+          "year": 2016,
+          "subs": 73
+        },
+        {
+          "year": 2017,
+          "subs": 503
+        },
+        {
+          "year": 2018,
+          "subs": 875
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Germany",
+      "code": "DEU",
+      "lon": 10.392292946376774,
+      "lat": 51.21874995233961,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1130
+        },
+        {
+          "year": 2016,
+          "subs": 3012
+        },
+        {
+          "year": 2017,
+          "subs": 17457
+        },
+        {
+          "year": 2018,
+          "subs": 26728
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Estonia",
+      "code": "EST",
+      "lon": 25.534667347516507,
+      "lat": 58.68140475295899,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 15
+        },
+        {
+          "year": 2017,
+          "subs": 147
+        },
+        {
+          "year": 2018,
+          "subs": 264
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Latvia",
+      "code": "LVA",
+      "lon": 24.904732736934886,
+      "lat": 56.86164870063083,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 2
+        },
+        {
+          "year": 2016,
+          "subs": 8
+        },
+        {
+          "year": 2017,
+          "subs": 75
+        },
+        {
+          "year": 2018,
+          "subs": 136
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Norway",
+      "code": "-99",
+      "lon": 16.773309066496058,
+      "lat": 73.3046617423937,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Sweden",
+      "code": "SWE",
+      "lon": 17.00347868883947,
+      "lat": 63.40318228789049,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 267
+        },
+        {
+          "year": 2016,
+          "subs": 1064
+        },
+        {
+          "year": 2017,
+          "subs": 6106
+        },
+        {
+          "year": 2018,
+          "subs": 9139
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Finland",
+      "code": "FIN",
+      "lon": 26.306304446002578,
+      "lat": 64.90591252731171,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 124
+        },
+        {
+          "year": 2016,
+          "subs": 350
+        },
+        {
+          "year": 2017,
+          "subs": 2121
+        },
+        {
+          "year": 2018,
+          "subs": 3549
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Vietnam",
+      "code": "VNM",
+      "lon": 106.2770464618874,
+      "lat": 16.80537683366928,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 5
+        },
+        {
+          "year": 2016,
+          "subs": 26
+        },
+        {
+          "year": 2017,
+          "subs": 100
+        },
+        {
+          "year": 2018,
+          "subs": 243
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Cambodia",
+      "code": "KHM",
+      "lon": 104.90361640711116,
+      "lat": 12.721314914954913,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 5
+        },
+        {
+          "year": 2017,
+          "subs": 27
+        },
+        {
+          "year": 2018,
+          "subs": 44
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Luxembourg",
+      "code": "LUX",
+      "lon": 6.071581518769638,
+      "lat": 49.76773903064444,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 53
+        },
+        {
+          "year": 2016,
+          "subs": 176
+        },
+        {
+          "year": 2017,
+          "subs": 868
+        },
+        {
+          "year": 2018,
+          "subs": 1110
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "United Arab Emirates",
+      "code": "ARE",
+      "lon": 54.30456583990612,
+      "lat": 23.912277088104187,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 19
+        },
+        {
+          "year": 2016,
+          "subs": 119
+        },
+        {
+          "year": 2017,
+          "subs": 722
+        },
+        {
+          "year": 2018,
+          "subs": 1094
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Belgium",
+      "code": "BEL",
+      "lon": 4.636343226261381,
+      "lat": 50.643546599568076,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 252
+        },
+        {
+          "year": 2016,
+          "subs": 884
+        },
+        {
+          "year": 2017,
+          "subs": 4488
+        },
+        {
+          "year": 2018,
+          "subs": 6248
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Georgia",
+      "code": "GEO",
+      "lon": 43.499098808736434,
+      "lat": 42.17684953121895,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 11
+        },
+        {
+          "year": 2018,
+          "subs": 32
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Macedonia",
+      "code": "MKD",
+      "lon": 21.68457139302003,
+      "lat": 41.597945514341106,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 11
+        },
+        {
+          "year": 2018,
+          "subs": 22
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Albania",
+      "code": "ALB",
+      "lon": 20.052797024097895,
+      "lat": 41.154835713261825,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 5
+        },
+        {
+          "year": 2017,
+          "subs": 16
+        },
+        {
+          "year": 2018,
+          "subs": 34
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Azerbaijan",
+      "code": "AZE",
+      "lon": 47.54126131927484,
+      "lat": 40.301404522681864,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 5
+        },
+        {
+          "year": 2018,
+          "subs": 15
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Kosovo",
+      "code": "-99",
+      "lon": 20.873675891356438,
+      "lat": 42.57473403654703,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Turkey",
+      "code": "TUR",
+      "lon": 35.1645052283801,
+      "lat": 39.10287652217566,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 18
+        },
+        {
+          "year": 2016,
+          "subs": 53
+        },
+        {
+          "year": 2017,
+          "subs": 233
+        },
+        {
+          "year": 2018,
+          "subs": 356
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Spain",
+      "code": "ESP",
+      "lon": -3.6287624846611855,
+      "lat": 40.338673708916815,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 246
+        },
+        {
+          "year": 2016,
+          "subs": 723
+        },
+        {
+          "year": 2017,
+          "subs": 3719
+        },
+        {
+          "year": 2018,
+          "subs": 4937
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Laos",
+      "code": "LAO",
+      "lon": 103.71936355520211,
+      "lat": 18.539529131485505,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 10
+        },
+        {
+          "year": 2018,
+          "subs": 15
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Kyrgyzstan",
+      "code": "KGZ",
+      "lon": 74.55762515165544,
+      "lat": 41.48280489004017,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 7
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Armenia",
+      "code": "ARM",
+      "lon": 44.92817144852152,
+      "lat": 40.29499148771427,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 5
+        },
+        {
+          "year": 2018,
+          "subs": 10
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Denmark",
+      "code": "DNK",
+      "lon": 10.044110474951488,
+      "lat": 55.985388483332876,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 172
+        },
+        {
+          "year": 2016,
+          "subs": 551
+        },
+        {
+          "year": 2017,
+          "subs": 3346
+        },
+        {
+          "year": 2018,
+          "subs": 5325
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Libya",
+      "code": "LBY",
+      "lon": 17.981926998789312,
+      "lat": 27.155358748555127,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Tunisia",
+      "code": "TUN",
+      "lon": 9.553109714243178,
+      "lat": 34.16956223817516,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 2
+        },
+        {
+          "year": 2017,
+          "subs": 7
+        },
+        {
+          "year": 2018,
+          "subs": 12
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Romania",
+      "code": "ROU",
+      "lon": 24.96798057873874,
+      "lat": 45.887384544505295,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 6
+        },
+        {
+          "year": 2016,
+          "subs": 23
+        },
+        {
+          "year": 2017,
+          "subs": 265
+        },
+        {
+          "year": 2018,
+          "subs": 501
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Hungary",
+      "code": "HUN",
+      "lon": 19.404949546990913,
+      "lat": 47.175027039976335,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 12
+        },
+        {
+          "year": 2016,
+          "subs": 35
+        },
+        {
+          "year": 2017,
+          "subs": 264
+        },
+        {
+          "year": 2018,
+          "subs": 508
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Slovakia",
+      "code": "SVK",
+      "lon": 19.48539086357056,
+      "lat": 48.70976145727877,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 5
+        },
+        {
+          "year": 2016,
+          "subs": 15
+        },
+        {
+          "year": 2017,
+          "subs": 153
+        },
+        {
+          "year": 2018,
+          "subs": 332
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Poland",
+      "code": "POL",
+      "lon": 19.380085813620745,
+      "lat": 52.18802720228742,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 9
+        },
+        {
+          "year": 2016,
+          "subs": 48
+        },
+        {
+          "year": 2017,
+          "subs": 528
+        },
+        {
+          "year": 2018,
+          "subs": 968
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Ireland",
+      "code": "IRL",
+      "lon": -8.141364110662252,
+      "lat": 53.20463994088883,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 267
+        },
+        {
+          "year": 2016,
+          "subs": 1581
+        },
+        {
+          "year": 2017,
+          "subs": 10422
+        },
+        {
+          "year": 2018,
+          "subs": 13130
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "United Kingdom",
+      "code": "GBR",
+      "lon": -2.942896960781275,
+      "lat": 54.34770010140292,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 59345
+        },
+        {
+          "year": 2016,
+          "subs": 103124
+        },
+        {
+          "year": 2017,
+          "subs": 254131
+        },
+        {
+          "year": 2018,
+          "subs": 313945
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Greece",
+      "code": "GRC",
+      "lon": 22.970653034804766,
+      "lat": 39.10813638956716,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 48
+        },
+        {
+          "year": 2016,
+          "subs": 110
+        },
+        {
+          "year": 2017,
+          "subs": 717
+        },
+        {
+          "year": 2018,
+          "subs": 1155
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Zambia",
+      "code": "ZMB",
+      "lon": 27.757319610456204,
+      "lat": -13.49280852228388,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 7
+        },
+        {
+          "year": 2016,
+          "subs": 8
+        },
+        {
+          "year": 2017,
+          "subs": 15
+        },
+        {
+          "year": 2018,
+          "subs": 21
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Sierra Leone",
+      "code": "SLE",
+      "lon": -11.79504017232721,
+      "lat": 8.565131162371017,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Guinea",
+      "code": "GIN",
+      "lon": -10.94622180375085,
+      "lat": 10.441205051746053,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Liberia",
+      "code": "LBR",
+      "lon": -9.320978767783897,
+      "lat": 6.454891183413258,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 4
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Central African Rep.",
+      "code": "CAF",
+      "lon": 20.468082873886658,
+      "lat": 6.5744611882411075,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Sudan",
+      "code": "SDN",
+      "lon": 29.95600219914421,
+      "lat": 16.07434670873888,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 2
+        },
+        {
+          "year": 2018,
+          "subs": 2
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Djibouti",
+      "code": "DJI",
+      "lon": 42.5667781369795,
+      "lat": 11.751218214391052,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 2
+        },
+        {
+          "year": 2018,
+          "subs": 2
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Eritrea",
+      "code": "ERI",
+      "lon": 38.847371125345255,
+      "lat": 15.367394384970929,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Austria",
+      "code": "AUT",
+      "lon": 14.138819973862706,
+      "lat": 47.595868267398636,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 145
+        },
+        {
+          "year": 2016,
+          "subs": 360
+        },
+        {
+          "year": 2017,
+          "subs": 2000
+        },
+        {
+          "year": 2018,
+          "subs": 3157
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Iraq",
+      "code": "IRQ",
+      "lon": 43.73034720941663,
+      "lat": 33.10978502839275,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 7
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Italy",
+      "code": "ITA",
+      "lon": 12.00738286731415,
+      "lat": 42.954833994472914,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 221
+        },
+        {
+          "year": 2016,
+          "subs": 590
+        },
+        {
+          "year": 2017,
+          "subs": 3922
+        },
+        {
+          "year": 2018,
+          "subs": 6580
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Switzerland",
+      "code": "CHE",
+      "lon": 8.216583179793368,
+      "lat": 46.80410849855276,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 586
+        },
+        {
+          "year": 2016,
+          "subs": 1395
+        },
+        {
+          "year": 2017,
+          "subs": 6153
+        },
+        {
+          "year": 2018,
+          "subs": 8542
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Iran",
+      "code": "IRN",
+      "lon": 54.19409281800273,
+      "lat": 32.76604055663983,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 5
+        },
+        {
+          "year": 2018,
+          "subs": 6
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Netherlands",
+      "code": "NLD",
+      "lon": 5.358805168643552,
+      "lat": 52.187137595085765,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 336
+        },
+        {
+          "year": 2016,
+          "subs": 1347
+        },
+        {
+          "year": 2017,
+          "subs": 9581
+        },
+        {
+          "year": 2018,
+          "subs": 14422
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Liechtenstein",
+      "code": "LIE",
+      "lon": 9.540850671264144,
+      "lat": 47.138326111385076,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 3
+        },
+        {
+          "year": 2017,
+          "subs": 13
+        },
+        {
+          "year": 2018,
+          "subs": 14
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Côte d'Ivoire",
+      "code": "CIV",
+      "lon": -5.569057737805735,
+      "lat": 7.635685190512446,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 3
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Serbia",
+      "code": "SRB",
+      "lon": 20.781854768625838,
+      "lat": 44.24317214315083,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 8
+        },
+        {
+          "year": 2017,
+          "subs": 41
+        },
+        {
+          "year": 2018,
+          "subs": 115
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Mali",
+      "code": "MLI",
+      "lon": -3.5159529226721125,
+      "lat": 17.44320230378279,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Senegal",
+      "code": "SEN",
+      "lon": -14.473349827086807,
+      "lat": 14.376173993831996,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 5
+        },
+        {
+          "year": 2017,
+          "subs": 8
+        },
+        {
+          "year": 2018,
+          "subs": 9
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Nigeria",
+      "code": "NGA",
+      "lon": 8.096013097167978,
+      "lat": 9.618204884298496,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 2
+        },
+        {
+          "year": 2016,
+          "subs": 7
+        },
+        {
+          "year": 2017,
+          "subs": 41
+        },
+        {
+          "year": 2018,
+          "subs": 122
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Benin",
+      "code": "BEN",
+      "lon": 2.329344117121951,
+      "lat": 9.65146607258319,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 3
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Angola",
+      "code": "AGO",
+      "lon": 17.53962186454833,
+      "lat": -12.350196158869807,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 7
+        },
+        {
+          "year": 2018,
+          "subs": 8
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Croatia",
+      "code": "HRV",
+      "lon": 16.400235293262018,
+      "lat": 45.08531531515355,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 23
+        },
+        {
+          "year": 2017,
+          "subs": 164
+        },
+        {
+          "year": 2018,
+          "subs": 365
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Slovenia",
+      "code": "SVN",
+      "lon": 14.810107274446054,
+      "lat": 46.11918817006164,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 15
+        },
+        {
+          "year": 2016,
+          "subs": 51
+        },
+        {
+          "year": 2017,
+          "subs": 298
+        },
+        {
+          "year": 2018,
+          "subs": 488
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Qatar",
+      "code": "QAT",
+      "lon": 51.18693405912321,
+      "lat": 25.315122886344334,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 5
+        },
+        {
+          "year": 2016,
+          "subs": 15
+        },
+        {
+          "year": 2017,
+          "subs": 139
+        },
+        {
+          "year": 2018,
+          "subs": 214
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Saudi Arabia",
+      "code": "SAU",
+      "lon": 44.47161682026441,
+      "lat": 24.27861655178652,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 10
+        },
+        {
+          "year": 2017,
+          "subs": 104
+        },
+        {
+          "year": 2018,
+          "subs": 171
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Botswana",
+      "code": "BWA",
+      "lon": 23.793656765264622,
+      "lat": -22.23373159963687,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 3
+        },
+        {
+          "year": 2017,
+          "subs": 14
+        },
+        {
+          "year": 2018,
+          "subs": 24
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Zimbabwe",
+      "code": "ZWE",
+      "lon": 29.852185802818962,
+      "lat": -19.025707294833012,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 7
+        },
+        {
+          "year": 2016,
+          "subs": 9
+        },
+        {
+          "year": 2017,
+          "subs": 20
+        },
+        {
+          "year": 2018,
+          "subs": 24
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Bulgaria",
+      "code": "BGR",
+      "lon": 25.220694653697127,
+      "lat": 42.78078730474517,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 5
+        },
+        {
+          "year": 2016,
+          "subs": 25
+        },
+        {
+          "year": 2017,
+          "subs": 142
+        },
+        {
+          "year": 2018,
+          "subs": 271
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Thailand",
+      "code": "THA",
+      "lon": 101.00415568273455,
+      "lat": 15.18276024951666,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 32
+        },
+        {
+          "year": 2016,
+          "subs": 95
+        },
+        {
+          "year": 2017,
+          "subs": 406
+        },
+        {
+          "year": 2018,
+          "subs": 716
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "San Marino",
+      "code": "SMR",
+      "lon": 12.44221234234879,
+      "lat": 43.93648577565364,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Haiti",
+      "code": "HTI",
+      "lon": -72.69014057214501,
+      "lat": 18.941051227052256,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 2
+        },
+        {
+          "year": 2018,
+          "subs": 2
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Dominican Rep.",
+      "code": "DOM",
+      "lon": -70.49679414903115,
+      "lat": 18.89841266716797,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 12
+        },
+        {
+          "year": 2018,
+          "subs": 28
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Chad",
+      "code": "TCD",
+      "lon": 18.65084352456056,
+      "lat": 15.440121941866057,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Kuwait",
+      "code": "KWT",
+      "lon": 47.59428429443236,
+      "lat": 29.34254685724391,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 2
+        },
+        {
+          "year": 2016,
+          "subs": 6
+        },
+        {
+          "year": 2017,
+          "subs": 46
+        },
+        {
+          "year": 2018,
+          "subs": 91
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "El Salvador",
+      "code": "SLV",
+      "lon": -88.87136795327129,
+      "lat": 13.736347786949155,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 14
+        },
+        {
+          "year": 2018,
+          "subs": 29
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Guatemala",
+      "code": "GTM",
+      "lon": -90.3589015570157,
+      "lat": 15.70435754079202,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 17
+        },
+        {
+          "year": 2018,
+          "subs": 36
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Timor-Leste",
+      "code": "TLS",
+      "lon": 125.85062791603949,
+      "lat": -8.824096312937776,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 2
+        },
+        {
+          "year": 2018,
+          "subs": 5
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Brunei",
+      "code": "BRN",
+      "lon": 114.72728182726138,
+      "lat": 4.516538889935306,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 5
+        },
+        {
+          "year": 2017,
+          "subs": 21
+        },
+        {
+          "year": 2018,
+          "subs": 40
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Monaco",
+      "code": "MCO",
+      "lon": 7.398841341404494,
+      "lat": 43.739805741933964,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 8
+        },
+        {
+          "year": 2017,
+          "subs": 25
+        },
+        {
+          "year": 2018,
+          "subs": 30
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Algeria",
+      "code": "DZA",
+      "lon": 2.650401419235946,
+      "lat": 28.41141177791792,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 6
+        },
+        {
+          "year": 2018,
+          "subs": 6
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Mozambique",
+      "code": "MOZ",
+      "lon": 35.502804076660155,
+      "lat": -17.41030400297722,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 18
+        },
+        {
+          "year": 2018,
+          "subs": 20
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "eSwatini",
+      "code": "SWZ",
+      "lon": 31.480008926507413,
+      "lat": -26.563838717472386,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 2
+        },
+        {
+          "year": 2016,
+          "subs": 3
+        },
+        {
+          "year": 2017,
+          "subs": 5
+        },
+        {
+          "year": 2018,
+          "subs": 7
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Burundi",
+      "code": "BDI",
+      "lon": 29.875018514576382,
+      "lat": -3.35784961918989,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Rwanda",
+      "code": "RWA",
+      "lon": 29.918999887972557,
+      "lat": -1.9929057687460858,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 2
+        },
+        {
+          "year": 2017,
+          "subs": 5
+        },
+        {
+          "year": 2018,
+          "subs": 4
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Myanmar",
+      "code": "MMR",
+      "lon": 96.4867074171307,
+      "lat": 21.292598598651715,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 3
+        },
+        {
+          "year": 2017,
+          "subs": 16
+        },
+        {
+          "year": 2018,
+          "subs": 19
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Bangladesh",
+      "code": "BGD",
+      "lon": 90.23747703582619,
+      "lat": 23.862371225353943,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 12
+        },
+        {
+          "year": 2018,
+          "subs": 32
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Andorra",
+      "code": "AND",
+      "lon": 1.5607601967300324,
+      "lat": 42.541400660141036,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 8
+        },
+        {
+          "year": 2018,
+          "subs": 10
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Afghanistan",
+      "code": "AFG",
+      "lon": 66.04811225640002,
+      "lat": 33.914378779824034,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 8
+        },
+        {
+          "year": 2018,
+          "subs": 9
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Montenegro",
+      "code": "MNE",
+      "lon": 19.238584169127744,
+      "lat": 42.78839295362394,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 7
+        },
+        {
+          "year": 2018,
+          "subs": 11
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Bosnia and Herz.",
+      "code": "BIH",
+      "lon": 17.77035057788072,
+      "lat": 44.181317373571915,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 21
+        },
+        {
+          "year": 2018,
+          "subs": 40
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Uganda",
+      "code": "UGA",
+      "lon": 32.367253322709864,
+      "lat": 1.2768306554057143,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 8
+        },
+        {
+          "year": 2016,
+          "subs": 12
+        },
+        {
+          "year": 2017,
+          "subs": 16
+        },
+        {
+          "year": 2018,
+          "subs": 29
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "USNB Guantanamo Bay",
+      "code": "-99",
+      "lon": -75.15456146193031,
+      "lat": 19.92930564209364,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Cuba",
+      "code": "CUB",
+      "lon": -79.04951855306854,
+      "lat": 21.634368015439925,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Honduras",
+      "code": "HND",
+      "lon": -86.62404308571799,
+      "lat": 14.823832534169052,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 4
+        },
+        {
+          "year": 2018,
+          "subs": 19
+        }
+      ]
+    },
+    {
+      "continent": "South America",
+      "country": "Ecuador",
+      "code": "ECU",
+      "lon": -78.7723834342672,
+      "lat": -1.4276853585334273,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 26
+        },
+        {
+          "year": 2018,
+          "subs": 54
+        }
+      ]
+    },
+    {
+      "continent": "South America",
+      "country": "Colombia",
+      "code": "COL",
+      "lon": -73.0859298629924,
+      "lat": 3.930389485789432,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 22
+        },
+        {
+          "year": 2017,
+          "subs": 121
+        },
+        {
+          "year": 2018,
+          "subs": 212
+        }
+      ]
+    },
+    {
+      "continent": "South America",
+      "country": "Paraguay",
+      "code": "PRY",
+      "lon": -58.37667135387005,
+      "lat": -23.27671491684202,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 9
+        },
+        {
+          "year": 2018,
+          "subs": 17
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Portugal",
+      "code": "PRT",
+      "lon": -8.571816662981266,
+      "lat": 39.635218483996454,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 57
+        },
+        {
+          "year": 2016,
+          "subs": 169
+        },
+        {
+          "year": 2017,
+          "subs": 1343
+        },
+        {
+          "year": 2018,
+          "subs": 2092
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Moldova",
+      "code": "MDA",
+      "lon": 28.456949142404632,
+      "lat": 47.20953237435037,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 2
+        },
+        {
+          "year": 2017,
+          "subs": 6
+        },
+        {
+          "year": 2018,
+          "subs": 13
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Turkmenistan",
+      "code": "TKM",
+      "lon": 59.33853552048745,
+      "lat": 39.17024226763011,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Jordan",
+      "code": "JOR",
+      "lon": 36.77779069586595,
+      "lat": 31.262403221689496,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 6
+        },
+        {
+          "year": 2017,
+          "subs": 24
+        },
+        {
+          "year": 2018,
+          "subs": 51
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Nepal",
+      "code": "NPL",
+      "lon": 83.90067732999968,
+      "lat": 28.260393124064482,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 5
+        },
+        {
+          "year": 2018,
+          "subs": 8
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Lesotho",
+      "code": "LSO",
+      "lon": 28.22774733143509,
+      "lat": -29.58285023097057,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 2
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Cameroon",
+      "code": "CMR",
+      "lon": 12.739928625137976,
+      "lat": 5.71104089792854,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 3
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 4
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Gabon",
+      "code": "GAB",
+      "lon": 11.789524042382885,
+      "lat": -0.5921646680797178,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 2
+        },
+        {
+          "year": 2018,
+          "subs": 3
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Niger",
+      "code": "NER",
+      "lon": 9.413575186386488,
+      "lat": 17.480581708833697,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Burkina Faso",
+      "code": "BFA",
+      "lon": -1.752242037759407,
+      "lat": 12.277659563673529,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 2
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Togo",
+      "code": "TGO",
+      "lon": 0.9615138783525631,
+      "lat": 8.533844571402971,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Ghana",
+      "code": "GHA",
+      "lon": -1.2164034003509132,
+      "lat": 7.964367241621985,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 6
+        },
+        {
+          "year": 2017,
+          "subs": 16
+        },
+        {
+          "year": 2018,
+          "subs": 25
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Guinea-Bissau",
+      "code": "GNB",
+      "lon": -14.977368885483681,
+      "lat": 12.027780319546299,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Gibraltar",
+      "code": "GIB",
+      "lon": -5.346691996369165,
+      "lat": 36.129575730187206,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 2
+        },
+        {
+          "year": 2016,
+          "subs": 12
+        },
+        {
+          "year": 2017,
+          "subs": 48
+        },
+        {
+          "year": 2018,
+          "subs": 65
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "United States of America",
+      "code": "USA",
+      "lon": -119.26737008520756,
+      "lat": 51.19812685502792,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3543
+        },
+        {
+          "year": 2016,
+          "subs": 16933
+        },
+        {
+          "year": 2017,
+          "subs": 234592
+        },
+        {
+          "year": 2018,
+          "subs": 393981
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Canada",
+      "code": "CAN",
+      "lon": -97.25577814843788,
+      "lat": 67.70137846951106,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3422
+        },
+        {
+          "year": 2016,
+          "subs": 5993
+        },
+        {
+          "year": 2017,
+          "subs": 27889
+        },
+        {
+          "year": 2018,
+          "subs": 42297
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Mexico",
+      "code": "MEX",
+      "lon": -102.70929433237889,
+      "lat": 24.19128894785907,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 27
+        },
+        {
+          "year": 2016,
+          "subs": 102
+        },
+        {
+          "year": 2017,
+          "subs": 706
+        },
+        {
+          "year": 2018,
+          "subs": 1171
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Belize",
+      "code": "BLZ",
+      "lon": -88.69340101915786,
+      "lat": 17.211622387398087,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 2
+        },
+        {
+          "year": 2017,
+          "subs": 6
+        },
+        {
+          "year": 2018,
+          "subs": 10
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Panama",
+      "code": "PAN",
+      "lon": -80.12151962244984,
+      "lat": 8.515752477040724,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 2
+        },
+        {
+          "year": 2017,
+          "subs": 38
+        },
+        {
+          "year": 2018,
+          "subs": 64
+        }
+      ]
+    },
+    {
+      "continent": "South America",
+      "country": "Venezuela",
+      "code": "VEN",
+      "lon": -66.17427553569027,
+      "lat": 7.146545756261736,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 10
+        },
+        {
+          "year": 2018,
+          "subs": 22
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Papua New Guinea",
+      "code": "PNG",
+      "lon": 145.23409356452535,
+      "lat": -6.480263474489614,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 5
+        },
+        {
+          "year": 2016,
+          "subs": 7
+        },
+        {
+          "year": 2017,
+          "subs": 13
+        },
+        {
+          "year": 2018,
+          "subs": 14
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Egypt",
+      "code": "EGY",
+      "lon": 29.85305286105631,
+      "lat": 26.591619760752486,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 26
+        },
+        {
+          "year": 2018,
+          "subs": 65
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Yemen",
+      "code": "YEM",
+      "lon": 47.59999783307866,
+      "lat": 15.920578450918685,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Mauritania",
+      "code": "MRT",
+      "lon": -10.331735892711107,
+      "lat": 20.34374733174973,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 3
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Eq. Guinea",
+      "code": "GNQ",
+      "lon": 10.332735183468518,
+      "lat": 1.7073111205388485,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Gambia",
+      "code": "GMB",
+      "lon": -15.397453473508858,
+      "lat": 13.449859873702588,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 2
+        },
+        {
+          "year": 2016,
+          "subs": 2
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 3
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Hong Kong",
+      "code": "HKG",
+      "lon": 114.13151567228158,
+      "lat": 22.384736515600387,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 58
+        },
+        {
+          "year": 2016,
+          "subs": 281
+        },
+        {
+          "year": 2017,
+          "subs": 1482
+        },
+        {
+          "year": 2018,
+          "subs": 2143
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Vatican",
+      "code": "VAT",
+      "lon": 12.453364251694591,
+      "lat": 41.90328189178276,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 4
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "N. Cyprus",
+      "code": "-99",
+      "lon": 33.59811887107831,
+      "lat": 35.276742495412954,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Cyprus U.N. Buffer Zone",
+      "code": "-99",
+      "lon": 33.25721839749728,
+      "lat": 35.102060898245746,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Siachen Glacier",
+      "code": "-99",
+      "lon": 77.18003921776214,
+      "lat": 35.39135486206924,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Baikonur",
+      "code": "-99",
+      "lon": 63.38387002885098,
+      "lat": 45.979454661407765,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Akrotiri",
+      "code": "-99",
+      "lon": 32.93383814624547,
+      "lat": 34.63185445232636,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Antarctica",
+      "country": "Antarctica",
+      "code": "ATA",
+      "lon": 19.238890898420703,
+      "lat": -80.38838036385698,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 3
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Australia",
+      "code": "AUS",
+      "lon": 134.60443456852406,
+      "lat": -26.23262610211835,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3877
+        },
+        {
+          "year": 2016,
+          "subs": 14673
+        },
+        {
+          "year": 2017,
+          "subs": 64507
+        },
+        {
+          "year": 2018,
+          "subs": 89333
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Greenland",
+      "code": "GRL",
+      "lon": -41.111251225559144,
+      "lat": 67.70137846951106,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 2
+        },
+        {
+          "year": 2017,
+          "subs": 12
+        },
+        {
+          "year": 2018,
+          "subs": 14
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Fiji",
+      "code": "FJI",
+      "lon": 163.40237916469007,
+      "lat": -17.45177317625737,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 2
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 22
+        },
+        {
+          "year": 2018,
+          "subs": 27
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "New Zealand",
+      "code": "NZL",
+      "lon": 171.3147965975664,
+      "lat": -42.05650993381627,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1206
+        },
+        {
+          "year": 2016,
+          "subs": 2448
+        },
+        {
+          "year": 2017,
+          "subs": 8698
+        },
+        {
+          "year": 2018,
+          "subs": 10923
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "New Caledonia",
+      "code": "NCL",
+      "lon": 165.70518652741916,
+      "lat": -21.307629970264273,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 3
+        },
+        {
+          "year": 2017,
+          "subs": 12
+        },
+        {
+          "year": 2018,
+          "subs": 15
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Madagascar",
+      "code": "MDG",
+      "lon": 46.6869655668946,
+      "lat": -19.468439908454744,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 4
+        },
+        {
+          "year": 2018,
+          "subs": 4
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Philippines",
+      "code": "PHL",
+      "lon": 122.85701658342738,
+      "lat": 11.842440308150922,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 9
+        },
+        {
+          "year": 2016,
+          "subs": 27
+        },
+        {
+          "year": 2017,
+          "subs": 216
+        },
+        {
+          "year": 2018,
+          "subs": 410
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Sri Lanka",
+      "code": "LKA",
+      "lon": 80.70285528941825,
+      "lat": 7.6188732313847485,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 10
+        },
+        {
+          "year": 2016,
+          "subs": 15
+        },
+        {
+          "year": 2017,
+          "subs": 47
+        },
+        {
+          "year": 2018,
+          "subs": 86
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Curaçao",
+      "code": "CUW",
+      "lon": -68.97129114267034,
+      "lat": 12.193790706275719,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 6
+        },
+        {
+          "year": 2018,
+          "subs": 6
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Aruba",
+      "code": "ABW",
+      "lon": -69.97419427852914,
+      "lat": 12.51692284281366,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 7
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Bahamas",
+      "code": "BHS",
+      "lon": -76.57131052685087,
+      "lat": 24.255269465994058,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 5
+        },
+        {
+          "year": 2017,
+          "subs": 22
+        },
+        {
+          "year": 2018,
+          "subs": 37
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Turks and Caicos Is.",
+      "code": "TCA",
+      "lon": -71.8732414560248,
+      "lat": 21.78019022019216,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 5
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Taiwan",
+      "code": "TWN",
+      "lon": 120.95122187525325,
+      "lat": 23.75973753729048,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 10
+        },
+        {
+          "year": 2016,
+          "subs": 33
+        },
+        {
+          "year": 2017,
+          "subs": 209
+        },
+        {
+          "year": 2018,
+          "subs": 361
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Japan",
+      "code": "JPN",
+      "lon": 138.16916770119627,
+      "lat": 37.86442536258558,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 159
+        },
+        {
+          "year": 2016,
+          "subs": 324
+        },
+        {
+          "year": 2017,
+          "subs": 1096
+        },
+        {
+          "year": 2018,
+          "subs": 1526
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "St. Pierre and Miquelon",
+      "code": "SPM",
+      "lon": -56.3079423747584,
+      "lat": 46.930761059806606,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Iceland",
+      "code": "ISL",
+      "lon": -18.594071143007742,
+      "lat": 65.02642780658633,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 22
+        },
+        {
+          "year": 2016,
+          "subs": 81
+        },
+        {
+          "year": 2017,
+          "subs": 471
+        },
+        {
+          "year": 2018,
+          "subs": 648
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Pitcairn Is.",
+      "code": "PCN",
+      "lon": -128.48224505737537,
+      "lat": -24.41287436396956,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Fr. Polynesia",
+      "code": "PYF",
+      "lon": -145.10596043813305,
+      "lat": -15.319725711025665,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Seven seas (open ocean)",
+      "country": "Fr. S. Antarctic Lands",
+      "code": "ATF",
+      "lon": 69.02876879832674,
+      "lat": -49.123011334189265,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Seven seas (open ocean)",
+      "country": "Seychelles",
+      "code": "SYC",
+      "lon": 52.04209514118446,
+      "lat": -6.507346164707102,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 3
+        },
+        {
+          "year": 2017,
+          "subs": 8
+        },
+        {
+          "year": 2018,
+          "subs": 14
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Kiribati",
+      "code": "KIR",
+      "lon": -51.49894776181219,
+      "lat": 0.6061625989635357,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 2
+        },
+        {
+          "year": 2018,
+          "subs": 3
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Marshall Is.",
+      "code": "MHL",
+      "lon": 170.09307378633238,
+      "lat": 7.125421266677628,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Trinidad and Tobago",
+      "code": "TTO",
+      "lon": -61.258239461396265,
+      "lat": 10.469332204525431,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 6
+        },
+        {
+          "year": 2016,
+          "subs": 11
+        },
+        {
+          "year": 2017,
+          "subs": 79
+        },
+        {
+          "year": 2018,
+          "subs": 123
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Grenada",
+      "code": "GRD",
+      "lon": -61.656585278143936,
+      "lat": 12.15344807099473,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 5
+        },
+        {
+          "year": 2017,
+          "subs": 5
+        },
+        {
+          "year": 2018,
+          "subs": 7
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "St. Vin. and Gren.",
+      "code": "VCT",
+      "lon": -61.20327687665475,
+      "lat": 13.216407028480655,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 3
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Barbados",
+      "code": "BRB",
+      "lon": -59.56114721617912,
+      "lat": 13.181058129739576,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 5
+        },
+        {
+          "year": 2016,
+          "subs": 9
+        },
+        {
+          "year": 2017,
+          "subs": 23
+        },
+        {
+          "year": 2018,
+          "subs": 38
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Saint Lucia",
+      "code": "LCA",
+      "lon": -60.97032426696438,
+      "lat": 13.902739228019172,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 4
+        },
+        {
+          "year": 2018,
+          "subs": 8
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Dominica",
+      "code": "DMA",
+      "lon": -61.356888605569566,
+      "lat": 15.436532477175065,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 4
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "U.S. Minor Outlying Is.",
+      "code": "UMI",
+      "lon": -102.72268048874793,
+      "lat": 13.876895311119087,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Montserrat",
+      "code": "MSR",
+      "lon": -62.18737689002942,
+      "lat": 16.73754147752158,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Antigua and Barb.",
+      "code": "ATG",
+      "lon": -61.79173108700597,
+      "lat": 17.285039082766385,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 2
+        },
+        {
+          "year": 2016,
+          "subs": 5
+        },
+        {
+          "year": 2017,
+          "subs": 12
+        },
+        {
+          "year": 2018,
+          "subs": 17
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "St. Kitts and Nevis",
+      "code": "KNA",
+      "lon": -62.698575126221655,
+      "lat": 17.271114972458676,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 2
+        },
+        {
+          "year": 2017,
+          "subs": 7
+        },
+        {
+          "year": 2018,
+          "subs": 17
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "U.S. Virgin Is.",
+      "code": "VIR",
+      "lon": -64.79773547010099,
+      "lat": 17.981416498627137,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 16
+        },
+        {
+          "year": 2018,
+          "subs": 17
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "St-Barthélemy",
+      "code": "BLM",
+      "lon": -62.83267361345436,
+      "lat": 17.905617348315943,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 4
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Puerto Rico",
+      "code": "PRI",
+      "lon": -66.46763804749898,
+      "lat": 18.224024019594296,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 44
+        },
+        {
+          "year": 2018,
+          "subs": 80
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Anguilla",
+      "code": "AIA",
+      "lon": -63.05850850760773,
+      "lat": 18.225754878538936,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "British Virgin Is.",
+      "code": "VGB",
+      "lon": -64.50303929375617,
+      "lat": 18.510013344639226,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 3
+        },
+        {
+          "year": 2017,
+          "subs": 15
+        },
+        {
+          "year": 2018,
+          "subs": 16
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Jamaica",
+      "code": "JAM",
+      "lon": -77.31903143178,
+      "lat": 18.15549743903874,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 7
+        },
+        {
+          "year": 2017,
+          "subs": 37
+        },
+        {
+          "year": 2018,
+          "subs": 68
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Cayman Is.",
+      "code": "CYM",
+      "lon": -80.87542462514794,
+      "lat": 19.426910698557244,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 2
+        },
+        {
+          "year": 2016,
+          "subs": 8
+        },
+        {
+          "year": 2017,
+          "subs": 30
+        },
+        {
+          "year": 2018,
+          "subs": 48
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Bermuda",
+      "code": "BMU",
+      "lon": -64.76329344641438,
+      "lat": 32.3101935561578,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 5
+        },
+        {
+          "year": 2016,
+          "subs": 20
+        },
+        {
+          "year": 2017,
+          "subs": 106
+        },
+        {
+          "year": 2018,
+          "subs": 137
+        }
+      ]
+    },
+    {
+      "continent": "Seven seas (open ocean)",
+      "country": "Heard I. and McDonald Is.",
+      "code": "HMD",
+      "lon": 73.50533870401287,
+      "lat": -53.08891254225964,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Seven seas (open ocean)",
+      "country": "Saint Helena",
+      "code": "SHN",
+      "lon": -10.202317124443338,
+      "lat": -27.141410888778623,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 2
+        }
+      ]
+    },
+    {
+      "continent": "Seven seas (open ocean)",
+      "country": "Mauritius",
+      "code": "MUS",
+      "lon": 57.84933642569461,
+      "lat": -20.19023234851016,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 8
+        },
+        {
+          "year": 2016,
+          "subs": 13
+        },
+        {
+          "year": 2017,
+          "subs": 60
+        },
+        {
+          "year": 2018,
+          "subs": 106
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Comoros",
+      "code": "COM",
+      "lon": 43.680336341152056,
+      "lat": -11.884681093366998,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "São Tomé and Principe",
+      "code": "STP",
+      "lon": 6.726525686533269,
+      "lat": 0.44444116571177267,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Africa",
+      "country": "Cabo Verde",
+      "code": "CPV",
+      "lon": -23.968980073851473,
+      "lat": 15.941534487658824,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 3
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Malta",
+      "code": "MLT",
+      "lon": 14.403712174295501,
+      "lat": 35.92111607193373,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 9
+        },
+        {
+          "year": 2016,
+          "subs": 36
+        },
+        {
+          "year": 2017,
+          "subs": 235
+        },
+        {
+          "year": 2018,
+          "subs": 390
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Jersey",
+      "code": "JEY",
+      "lon": -2.1274742211978146,
+      "lat": 49.22109196149214,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 6
+        },
+        {
+          "year": 2016,
+          "subs": 19
+        },
+        {
+          "year": 2017,
+          "subs": 58
+        },
+        {
+          "year": 2018,
+          "subs": 79
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Guernsey",
+      "code": "GGY",
+      "lon": -2.5302286003810313,
+      "lat": 49.48449771936088,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 5
+        },
+        {
+          "year": 2016,
+          "subs": 10
+        },
+        {
+          "year": 2017,
+          "subs": 50
+        },
+        {
+          "year": 2018,
+          "subs": 63
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Isle of Man",
+      "code": "IMN",
+      "lon": -4.533480429708781,
+      "lat": 54.229389344321724,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 4
+        },
+        {
+          "year": 2016,
+          "subs": 18
+        },
+        {
+          "year": 2017,
+          "subs": 66
+        },
+        {
+          "year": 2018,
+          "subs": 77
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Åland",
+      "code": "ALA",
+      "lon": 20.05524727863928,
+      "lat": 60.18701931808582,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 7
+        }
+      ]
+    },
+    {
+      "continent": "Europe",
+      "country": "Faeroe Is.",
+      "code": "FRO",
+      "lon": -6.870671906617008,
+      "lat": 62.076848759577715,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 3
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 27
+        },
+        {
+          "year": 2018,
+          "subs": 35
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Indian Ocean Ter.",
+      "code": "-99",
+      "lon": 104.61733949271132,
+      "lat": -10.693019009496908,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Seven seas (open ocean)",
+      "country": "Br. Indian Ocean Ter.",
+      "code": "IOT",
+      "lon": 72.29949790724771,
+      "lat": -7.144195477313435,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Singapore",
+      "code": "SGP",
+      "lon": 103.81347922607424,
+      "lat": 1.3589139032283266,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 54
+        },
+        {
+          "year": 2016,
+          "subs": 302
+        },
+        {
+          "year": 2017,
+          "subs": 1922
+        },
+        {
+          "year": 2018,
+          "subs": 3115
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Norfolk Island",
+      "code": "NFK",
+      "lon": 167.95519338263475,
+      "lat": -29.034970550184088,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 4
+        },
+        {
+          "year": 2018,
+          "subs": 3
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Cook Is.",
+      "code": "COK",
+      "lon": -158.7901050288555,
+      "lat": -19.887870887985052,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 5
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Tonga",
+      "code": "TON",
+      "lon": -174.86986170674936,
+      "lat": -20.090234109380095,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 2
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Wallis and Futuna Is.",
+      "code": "WLF",
+      "lon": -177.06283229982643,
+      "lat": -13.740591704692239,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Samoa",
+      "code": "WSM",
+      "lon": -172.16116621370523,
+      "lat": -13.754728094936302,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 4
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 2
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Solomon Is.",
+      "code": "SLB",
+      "lon": 159.64371349272207,
+      "lat": -8.915499578122498,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 3
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Tuvalu",
+      "code": "TUV",
+      "lon": 178.52432080032312,
+      "lat": -7.764495654500294,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Seven seas (open ocean)",
+      "country": "Maldives",
+      "code": "MDV",
+      "lon": 73.30241234580642,
+      "lat": 3.833784887048588,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 4
+        },
+        {
+          "year": 2018,
+          "subs": 10
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Nauru",
+      "code": "NRU",
+      "lon": 166.9331254594218,
+      "lat": -0.5208281081961448,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Micronesia",
+      "code": "FSM",
+      "lon": 155.23137137990605,
+      "lat": 6.974458822938111,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Seven seas (open ocean)",
+      "country": "S. Geo. and the Is.",
+      "code": "SGS",
+      "lon": -35.80125832700297,
+      "lat": -54.7304819939535,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "South America",
+      "country": "Falkland Is.",
+      "code": "FLK",
+      "lon": -59.37727335724662,
+      "lat": -51.73530101210809,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 2
+        },
+        {
+          "year": 2016,
+          "subs": 2
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 7
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Vanuatu",
+      "code": "VUT",
+      "lon": 167.70647654123457,
+      "lat": -16.218674802794222,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 2
+        },
+        {
+          "year": 2017,
+          "subs": 9
+        },
+        {
+          "year": 2018,
+          "subs": 10
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Niue",
+      "code": "NIU",
+      "lon": -169.86936656745436,
+      "lat": -19.04891355860742,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "American Samoa",
+      "code": "ASM",
+      "lon": -170.39937751806414,
+      "lat": -14.256282793859334,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Palau",
+      "code": "PLW",
+      "lon": 134.3493672499517,
+      "lat": 7.20062408225498,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 1
+        },
+        {
+          "year": 2018,
+          "subs": 1
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Guam",
+      "code": "GUM",
+      "lon": 144.77199878020346,
+      "lat": 13.443827887793518,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 1
+        },
+        {
+          "year": 2017,
+          "subs": 6
+        },
+        {
+          "year": 2018,
+          "subs": 9
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "N. Mariana Is.",
+      "code": "MNP",
+      "lon": 145.60030257550636,
+      "lat": 16.277931475150588,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 3
+        },
+        {
+          "year": 2018,
+          "subs": 5
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Bahrain",
+      "code": "BHR",
+      "lon": 50.54659224544827,
+      "lat": 26.05295684185559,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 4
+        },
+        {
+          "year": 2017,
+          "subs": 38
+        },
+        {
+          "year": 2018,
+          "subs": 70
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Coral Sea Is.",
+      "code": "-99",
+      "lon": 154.3902554080202,
+      "lat": -21.029221636446255,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Spratly Is.",
+      "code": "-99",
+      "lon": 114.92997188159272,
+      "lat": 10.545720157330198,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Seven seas (open ocean)",
+      "country": "Clipperton I.",
+      "code": "-99",
+      "lon": -109.22124563808673,
+      "lat": 10.297414796598073,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Macao",
+      "code": "MAC",
+      "lon": 113.55020763041398,
+      "lat": 22.157907310175545,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 1
+        },
+        {
+          "year": 2016,
+          "subs": 3
+        },
+        {
+          "year": 2017,
+          "subs": 23
+        },
+        {
+          "year": 2018,
+          "subs": 32
+        }
+      ]
+    },
+    {
+      "continent": "Oceania",
+      "country": "Ashmore and Cartier Is.",
+      "code": "-99",
+      "lon": 123.58635003138394,
+      "lat": -12.432569002441033,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Bajo Nuevo Bank",
+      "code": "-99",
+      "lon": -79.98775829284747,
+      "lat": 15.79496701017165,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "North America",
+      "country": "Serranilla Bank",
+      "code": "-99",
+      "lon": -78.6380753276575,
+      "lat": 15.864505612155885,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    },
+    {
+      "continent": "Asia",
+      "country": "Scarborough Reef",
+      "code": "-99",
+      "lon": 117.75370559678302,
+      "lat": 15.152145031234747,
+      "subscribers": [
+        {
+          "year": 2015,
+          "subs": 0
+        },
+        {
+          "year": 2016,
+          "subs": 0
+        },
+        {
+          "year": 2017,
+          "subs": 0
+        },
+        {
+          "year": 2018,
+          "subs": 0
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "IDN",
+      "target": "MYS"
+    },
+    {
+      "source": "IDN",
+      "target": "TLS"
+    },
+    {
+      "source": "IDN",
+      "target": "PNG"
+    },
+    {
+      "source": "MYS",
+      "target": "IDN"
+    },
+    {
+      "source": "MYS",
+      "target": "THA"
+    },
+    {
+      "source": "MYS",
+      "target": "BRN"
+    },
+    {
+      "source": "CHL",
+      "target": "BOL"
+    },
+    {
+      "source": "CHL",
+      "target": "PER"
+    },
+    {
+      "source": "CHL",
+      "target": "ARG"
+    },
+    {
+      "source": "BOL",
+      "target": "CHL"
+    },
+    {
+      "source": "BOL",
+      "target": "PER"
+    },
+    {
+      "source": "BOL",
+      "target": "ARG"
+    },
+    {
+      "source": "BOL",
+      "target": "BRA"
+    },
+    {
+      "source": "BOL",
+      "target": "PRY"
+    },
+    {
+      "source": "PER",
+      "target": "CHL"
+    },
+    {
+      "source": "PER",
+      "target": "BOL"
+    },
+    {
+      "source": "PER",
+      "target": "BRA"
+    },
+    {
+      "source": "PER",
+      "target": "ECU"
+    },
+    {
+      "source": "PER",
+      "target": "COL"
+    },
+    {
+      "source": "ARG",
+      "target": "CHL"
+    },
+    {
+      "source": "ARG",
+      "target": "BOL"
+    },
+    {
+      "source": "ARG",
+      "target": "BRA"
+    },
+    {
+      "source": "ARG",
+      "target": "URY"
+    },
+    {
+      "source": "ARG",
+      "target": "PRY"
+    },
+    {
+      "source": "-99",
+      "target": "CYP"
+    },
+    {
+      "source": "-99",
+      "target": "-99"
+    },
+    {
+      "source": "-99",
+      "target": "-99"
+    },
+    {
+      "source": "CYP",
+      "target": "-99"
+    },
+    {
+      "source": "CYP",
+      "target": "-99"
+    },
+    {
+      "source": "CYP",
+      "target": "-99"
+    },
+    {
+      "source": "IND",
+      "target": "CHN"
+    },
+    {
+      "source": "IND",
+      "target": "PAK"
+    },
+    {
+      "source": "IND",
+      "target": "BTN"
+    },
+    {
+      "source": "IND",
+      "target": "MMR"
+    },
+    {
+      "source": "IND",
+      "target": "BGD"
+    },
+    {
+      "source": "IND",
+      "target": "NPL"
+    },
+    {
+      "source": "IND",
+      "target": "-99"
+    },
+    {
+      "source": "CHN",
+      "target": "IND"
+    },
+    {
+      "source": "CHN",
+      "target": "PAK"
+    },
+    {
+      "source": "CHN",
+      "target": "PRK"
+    },
+    {
+      "source": "CHN",
+      "target": "BTN"
+    },
+    {
+      "source": "CHN",
+      "target": "KAZ"
+    },
+    {
+      "source": "CHN",
+      "target": "TJK"
+    },
+    {
+      "source": "CHN",
+      "target": "MNG"
+    },
+    {
+      "source": "CHN",
+      "target": "RUS"
+    },
+    {
+      "source": "CHN",
+      "target": "VNM"
+    },
+    {
+      "source": "CHN",
+      "target": "LAO"
+    },
+    {
+      "source": "CHN",
+      "target": "KGZ"
+    },
+    {
+      "source": "CHN",
+      "target": "MMR"
+    },
+    {
+      "source": "CHN",
+      "target": "AFG"
+    },
+    {
+      "source": "CHN",
+      "target": "NPL"
+    },
+    {
+      "source": "CHN",
+      "target": "HKG"
+    },
+    {
+      "source": "CHN",
+      "target": "-99"
+    },
+    {
+      "source": "ISR",
+      "target": "PSE"
+    },
+    {
+      "source": "ISR",
+      "target": "LBN"
+    },
+    {
+      "source": "ISR",
+      "target": "SYR"
+    },
+    {
+      "source": "ISR",
+      "target": "JOR"
+    },
+    {
+      "source": "ISR",
+      "target": "EGY"
+    },
+    {
+      "source": "PSE",
+      "target": "ISR"
+    },
+    {
+      "source": "PSE",
+      "target": "JOR"
+    },
+    {
+      "source": "PSE",
+      "target": "EGY"
+    },
+    {
+      "source": "LBN",
+      "target": "ISR"
+    },
+    {
+      "source": "LBN",
+      "target": "SYR"
+    },
+    {
+      "source": "ETH",
+      "target": "SSD"
+    },
+    {
+      "source": "ETH",
+      "target": "SOM"
+    },
+    {
+      "source": "ETH",
+      "target": "KEN"
+    },
+    {
+      "source": "ETH",
+      "target": "-99"
+    },
+    {
+      "source": "ETH",
+      "target": "SDN"
+    },
+    {
+      "source": "ETH",
+      "target": "DJI"
+    },
+    {
+      "source": "ETH",
+      "target": "ERI"
+    },
+    {
+      "source": "SSD",
+      "target": "ETH"
+    },
+    {
+      "source": "SSD",
+      "target": "KEN"
+    },
+    {
+      "source": "SSD",
+      "target": "COD"
+    },
+    {
+      "source": "SSD",
+      "target": "CAF"
+    },
+    {
+      "source": "SSD",
+      "target": "SDN"
+    },
+    {
+      "source": "SSD",
+      "target": "UGA"
+    },
+    {
+      "source": "SOM",
+      "target": "ETH"
+    },
+    {
+      "source": "SOM",
+      "target": "KEN"
+    },
+    {
+      "source": "SOM",
+      "target": "-99"
+    },
+    {
+      "source": "KEN",
+      "target": "ETH"
+    },
+    {
+      "source": "KEN",
+      "target": "SSD"
+    },
+    {
+      "source": "KEN",
+      "target": "SOM"
+    },
+    {
+      "source": "KEN",
+      "target": "TZA"
+    },
+    {
+      "source": "KEN",
+      "target": "UGA"
+    },
+    {
+      "source": "PAK",
+      "target": "IND"
+    },
+    {
+      "source": "PAK",
+      "target": "CHN"
+    },
+    {
+      "source": "PAK",
+      "target": "IRN"
+    },
+    {
+      "source": "PAK",
+      "target": "AFG"
+    },
+    {
+      "source": "PAK",
+      "target": "-99"
+    },
+    {
+      "source": "MWI",
+      "target": "TZA"
+    },
+    {
+      "source": "MWI",
+      "target": "ZMB"
+    },
+    {
+      "source": "MWI",
+      "target": "MOZ"
+    },
+    {
+      "source": "TZA",
+      "target": "KEN"
+    },
+    {
+      "source": "TZA",
+      "target": "MWI"
+    },
+    {
+      "source": "TZA",
+      "target": "COD"
+    },
+    {
+      "source": "TZA",
+      "target": "ZMB"
+    },
+    {
+      "source": "TZA",
+      "target": "MOZ"
+    },
+    {
+      "source": "TZA",
+      "target": "BDI"
+    },
+    {
+      "source": "TZA",
+      "target": "RWA"
+    },
+    {
+      "source": "TZA",
+      "target": "UGA"
+    },
+    {
+      "source": "SYR",
+      "target": "ISR"
+    },
+    {
+      "source": "SYR",
+      "target": "LBN"
+    },
+    {
+      "source": "SYR",
+      "target": "TUR"
+    },
+    {
+      "source": "SYR",
+      "target": "IRQ"
+    },
+    {
+      "source": "SYR",
+      "target": "JOR"
+    },
+    {
+      "source": "-99",
+      "target": "ETH"
+    },
+    {
+      "source": "-99",
+      "target": "SOM"
+    },
+    {
+      "source": "-99",
+      "target": "DJI"
+    },
+    {
+      "source": "-99",
+      "target": "SUR"
+    },
+    {
+      "source": "-99",
+      "target": "BRA"
+    },
+    {
+      "source": "-99",
+      "target": "DEU"
+    },
+    {
+      "source": "-99",
+      "target": "LUX"
+    },
+    {
+      "source": "-99",
+      "target": "BEL"
+    },
+    {
+      "source": "-99",
+      "target": "ESP"
+    },
+    {
+      "source": "-99",
+      "target": "ITA"
+    },
+    {
+      "source": "-99",
+      "target": "CHE"
+    },
+    {
+      "source": "-99",
+      "target": "MCO"
+    },
+    {
+      "source": "-99",
+      "target": "AND"
+    },
+    {
+      "source": "SUR",
+      "target": "-99"
+    },
+    {
+      "source": "SUR",
+      "target": "GUY"
+    },
+    {
+      "source": "SUR",
+      "target": "BRA"
+    },
+    {
+      "source": "GUY",
+      "target": "SUR"
+    },
+    {
+      "source": "GUY",
+      "target": "BRA"
+    },
+    {
+      "source": "GUY",
+      "target": "VEN"
+    },
+    {
+      "source": "KOR",
+      "target": "PRK"
+    },
+    {
+      "source": "PRK",
+      "target": "CHN"
+    },
+    {
+      "source": "PRK",
+      "target": "KOR"
+    },
+    {
+      "source": "PRK",
+      "target": "RUS"
+    },
+    {
+      "source": "MAR",
+      "target": "ESH"
+    },
+    {
+      "source": "MAR",
+      "target": "ESP"
+    },
+    {
+      "source": "MAR",
+      "target": "DZA"
+    },
+    {
+      "source": "ESH",
+      "target": "MAR"
+    },
+    {
+      "source": "ESH",
+      "target": "DZA"
+    },
+    {
+      "source": "ESH",
+      "target": "MRT"
+    },
+    {
+      "source": "CRI",
+      "target": "NIC"
+    },
+    {
+      "source": "CRI",
+      "target": "PAN"
+    },
+    {
+      "source": "NIC",
+      "target": "CRI"
+    },
+    {
+      "source": "NIC",
+      "target": "HND"
+    },
+    {
+      "source": "COG",
+      "target": "COD"
+    },
+    {
+      "source": "COG",
+      "target": "CAF"
+    },
+    {
+      "source": "COG",
+      "target": "AGO"
+    },
+    {
+      "source": "COG",
+      "target": "CMR"
+    },
+    {
+      "source": "COG",
+      "target": "GAB"
+    },
+    {
+      "source": "COD",
+      "target": "SSD"
+    },
+    {
+      "source": "COD",
+      "target": "TZA"
+    },
+    {
+      "source": "COD",
+      "target": "COG"
+    },
+    {
+      "source": "COD",
+      "target": "ZMB"
+    },
+    {
+      "source": "COD",
+      "target": "CAF"
+    },
+    {
+      "source": "COD",
+      "target": "AGO"
+    },
+    {
+      "source": "COD",
+      "target": "BDI"
+    },
+    {
+      "source": "COD",
+      "target": "RWA"
+    },
+    {
+      "source": "COD",
+      "target": "UGA"
+    },
+    {
+      "source": "BTN",
+      "target": "IND"
+    },
+    {
+      "source": "BTN",
+      "target": "CHN"
+    },
+    {
+      "source": "UKR",
+      "target": "BLR"
+    },
+    {
+      "source": "UKR",
+      "target": "RUS"
+    },
+    {
+      "source": "UKR",
+      "target": "ROU"
+    },
+    {
+      "source": "UKR",
+      "target": "HUN"
+    },
+    {
+      "source": "UKR",
+      "target": "SVK"
+    },
+    {
+      "source": "UKR",
+      "target": "POL"
+    },
+    {
+      "source": "UKR",
+      "target": "MDA"
+    },
+    {
+      "source": "BLR",
+      "target": "UKR"
+    },
+    {
+      "source": "BLR",
+      "target": "LTU"
+    },
+    {
+      "source": "BLR",
+      "target": "RUS"
+    },
+    {
+      "source": "BLR",
+      "target": "LVA"
+    },
+    {
+      "source": "BLR",
+      "target": "POL"
+    },
+    {
+      "source": "NAM",
+      "target": "ZAF"
+    },
+    {
+      "source": "NAM",
+      "target": "ZMB"
+    },
+    {
+      "source": "NAM",
+      "target": "AGO"
+    },
+    {
+      "source": "NAM",
+      "target": "BWA"
+    },
+    {
+      "source": "ZAF",
+      "target": "NAM"
+    },
+    {
+      "source": "ZAF",
+      "target": "BWA"
+    },
+    {
+      "source": "ZAF",
+      "target": "ZWE"
+    },
+    {
+      "source": "ZAF",
+      "target": "MOZ"
+    },
+    {
+      "source": "ZAF",
+      "target": "SWZ"
+    },
+    {
+      "source": "ZAF",
+      "target": "LSO"
+    },
+    {
+      "source": "MAF",
+      "target": "SXM"
+    },
+    {
+      "source": "SXM",
+      "target": "MAF"
+    },
+    {
+      "source": "OMN",
+      "target": "ARE"
+    },
+    {
+      "source": "OMN",
+      "target": "SAU"
+    },
+    {
+      "source": "OMN",
+      "target": "YEM"
+    },
+    {
+      "source": "UZB",
+      "target": "KAZ"
+    },
+    {
+      "source": "UZB",
+      "target": "TJK"
+    },
+    {
+      "source": "UZB",
+      "target": "KGZ"
+    },
+    {
+      "source": "UZB",
+      "target": "AFG"
+    },
+    {
+      "source": "UZB",
+      "target": "TKM"
+    },
+    {
+      "source": "KAZ",
+      "target": "CHN"
+    },
+    {
+      "source": "KAZ",
+      "target": "UZB"
+    },
+    {
+      "source": "KAZ",
+      "target": "RUS"
+    },
+    {
+      "source": "KAZ",
+      "target": "KGZ"
+    },
+    {
+      "source": "KAZ",
+      "target": "TKM"
+    },
+    {
+      "source": "KAZ",
+      "target": "-99"
+    },
+    {
+      "source": "TJK",
+      "target": "CHN"
+    },
+    {
+      "source": "TJK",
+      "target": "UZB"
+    },
+    {
+      "source": "TJK",
+      "target": "KGZ"
+    },
+    {
+      "source": "TJK",
+      "target": "AFG"
+    },
+    {
+      "source": "LTU",
+      "target": "BLR"
+    },
+    {
+      "source": "LTU",
+      "target": "RUS"
+    },
+    {
+      "source": "LTU",
+      "target": "LVA"
+    },
+    {
+      "source": "LTU",
+      "target": "POL"
+    },
+    {
+      "source": "BRA",
+      "target": "BOL"
+    },
+    {
+      "source": "BRA",
+      "target": "PER"
+    },
+    {
+      "source": "BRA",
+      "target": "ARG"
+    },
+    {
+      "source": "BRA",
+      "target": "-99"
+    },
+    {
+      "source": "BRA",
+      "target": "SUR"
+    },
+    {
+      "source": "BRA",
+      "target": "GUY"
+    },
+    {
+      "source": "BRA",
+      "target": "URY"
+    },
+    {
+      "source": "BRA",
+      "target": "COL"
+    },
+    {
+      "source": "BRA",
+      "target": "PRY"
+    },
+    {
+      "source": "BRA",
+      "target": "VEN"
+    },
+    {
+      "source": "URY",
+      "target": "ARG"
+    },
+    {
+      "source": "URY",
+      "target": "BRA"
+    },
+    {
+      "source": "MNG",
+      "target": "CHN"
+    },
+    {
+      "source": "MNG",
+      "target": "RUS"
+    },
+    {
+      "source": "RUS",
+      "target": "CHN"
+    },
+    {
+      "source": "RUS",
+      "target": "PRK"
+    },
+    {
+      "source": "RUS",
+      "target": "UKR"
+    },
+    {
+      "source": "RUS",
+      "target": "BLR"
+    },
+    {
+      "source": "RUS",
+      "target": "KAZ"
+    },
+    {
+      "source": "RUS",
+      "target": "LTU"
+    },
+    {
+      "source": "RUS",
+      "target": "MNG"
+    },
+    {
+      "source": "RUS",
+      "target": "EST"
+    },
+    {
+      "source": "RUS",
+      "target": "LVA"
+    },
+    {
+      "source": "RUS",
+      "target": "-99"
+    },
+    {
+      "source": "RUS",
+      "target": "FIN"
+    },
+    {
+      "source": "RUS",
+      "target": "GEO"
+    },
+    {
+      "source": "RUS",
+      "target": "AZE"
+    },
+    {
+      "source": "RUS",
+      "target": "POL"
+    },
+    {
+      "source": "CZE",
+      "target": "DEU"
+    },
+    {
+      "source": "CZE",
+      "target": "SVK"
+    },
+    {
+      "source": "CZE",
+      "target": "POL"
+    },
+    {
+      "source": "CZE",
+      "target": "AUT"
+    },
+    {
+      "source": "DEU",
+      "target": "-99"
+    },
+    {
+      "source": "DEU",
+      "target": "CZE"
+    },
+    {
+      "source": "DEU",
+      "target": "LUX"
+    },
+    {
+      "source": "DEU",
+      "target": "BEL"
+    },
+    {
+      "source": "DEU",
+      "target": "DNK"
+    },
+    {
+      "source": "DEU",
+      "target": "POL"
+    },
+    {
+      "source": "DEU",
+      "target": "AUT"
+    },
+    {
+      "source": "DEU",
+      "target": "CHE"
+    },
+    {
+      "source": "DEU",
+      "target": "NLD"
+    },
+    {
+      "source": "EST",
+      "target": "RUS"
+    },
+    {
+      "source": "EST",
+      "target": "LVA"
+    },
+    {
+      "source": "LVA",
+      "target": "BLR"
+    },
+    {
+      "source": "LVA",
+      "target": "LTU"
+    },
+    {
+      "source": "LVA",
+      "target": "RUS"
+    },
+    {
+      "source": "LVA",
+      "target": "EST"
+    },
+    {
+      "source": "-99",
+      "target": "RUS"
+    },
+    {
+      "source": "-99",
+      "target": "SWE"
+    },
+    {
+      "source": "-99",
+      "target": "FIN"
+    },
+    {
+      "source": "SWE",
+      "target": "-99"
+    },
+    {
+      "source": "SWE",
+      "target": "FIN"
+    },
+    {
+      "source": "FIN",
+      "target": "RUS"
+    },
+    {
+      "source": "FIN",
+      "target": "-99"
+    },
+    {
+      "source": "FIN",
+      "target": "SWE"
+    },
+    {
+      "source": "VNM",
+      "target": "CHN"
+    },
+    {
+      "source": "VNM",
+      "target": "KHM"
+    },
+    {
+      "source": "VNM",
+      "target": "LAO"
+    },
+    {
+      "source": "KHM",
+      "target": "VNM"
+    },
+    {
+      "source": "KHM",
+      "target": "LAO"
+    },
+    {
+      "source": "KHM",
+      "target": "THA"
+    },
+    {
+      "source": "LUX",
+      "target": "-99"
+    },
+    {
+      "source": "LUX",
+      "target": "DEU"
+    },
+    {
+      "source": "LUX",
+      "target": "BEL"
+    },
+    {
+      "source": "ARE",
+      "target": "OMN"
+    },
+    {
+      "source": "ARE",
+      "target": "SAU"
+    },
+    {
+      "source": "BEL",
+      "target": "-99"
+    },
+    {
+      "source": "BEL",
+      "target": "DEU"
+    },
+    {
+      "source": "BEL",
+      "target": "LUX"
+    },
+    {
+      "source": "BEL",
+      "target": "NLD"
+    },
+    {
+      "source": "GEO",
+      "target": "RUS"
+    },
+    {
+      "source": "GEO",
+      "target": "AZE"
+    },
+    {
+      "source": "GEO",
+      "target": "TUR"
+    },
+    {
+      "source": "GEO",
+      "target": "ARM"
+    },
+    {
+      "source": "MKD",
+      "target": "ALB"
+    },
+    {
+      "source": "MKD",
+      "target": "-99"
+    },
+    {
+      "source": "MKD",
+      "target": "GRC"
+    },
+    {
+      "source": "MKD",
+      "target": "SRB"
+    },
+    {
+      "source": "MKD",
+      "target": "BGR"
+    },
+    {
+      "source": "ALB",
+      "target": "MKD"
+    },
+    {
+      "source": "ALB",
+      "target": "-99"
+    },
+    {
+      "source": "ALB",
+      "target": "GRC"
+    },
+    {
+      "source": "ALB",
+      "target": "MNE"
+    },
+    {
+      "source": "AZE",
+      "target": "RUS"
+    },
+    {
+      "source": "AZE",
+      "target": "GEO"
+    },
+    {
+      "source": "AZE",
+      "target": "TUR"
+    },
+    {
+      "source": "AZE",
+      "target": "ARM"
+    },
+    {
+      "source": "AZE",
+      "target": "IRN"
+    },
+    {
+      "source": "-99",
+      "target": "MKD"
+    },
+    {
+      "source": "-99",
+      "target": "ALB"
+    },
+    {
+      "source": "-99",
+      "target": "SRB"
+    },
+    {
+      "source": "-99",
+      "target": "MNE"
+    },
+    {
+      "source": "TUR",
+      "target": "SYR"
+    },
+    {
+      "source": "TUR",
+      "target": "GEO"
+    },
+    {
+      "source": "TUR",
+      "target": "AZE"
+    },
+    {
+      "source": "TUR",
+      "target": "ARM"
+    },
+    {
+      "source": "TUR",
+      "target": "GRC"
+    },
+    {
+      "source": "TUR",
+      "target": "IRQ"
+    },
+    {
+      "source": "TUR",
+      "target": "IRN"
+    },
+    {
+      "source": "TUR",
+      "target": "BGR"
+    },
+    {
+      "source": "ESP",
+      "target": "-99"
+    },
+    {
+      "source": "ESP",
+      "target": "MAR"
+    },
+    {
+      "source": "ESP",
+      "target": "AND"
+    },
+    {
+      "source": "ESP",
+      "target": "PRT"
+    },
+    {
+      "source": "ESP",
+      "target": "GIB"
+    },
+    {
+      "source": "LAO",
+      "target": "CHN"
+    },
+    {
+      "source": "LAO",
+      "target": "VNM"
+    },
+    {
+      "source": "LAO",
+      "target": "KHM"
+    },
+    {
+      "source": "LAO",
+      "target": "THA"
+    },
+    {
+      "source": "LAO",
+      "target": "MMR"
+    },
+    {
+      "source": "KGZ",
+      "target": "CHN"
+    },
+    {
+      "source": "KGZ",
+      "target": "UZB"
+    },
+    {
+      "source": "KGZ",
+      "target": "KAZ"
+    },
+    {
+      "source": "KGZ",
+      "target": "TJK"
+    },
+    {
+      "source": "ARM",
+      "target": "GEO"
+    },
+    {
+      "source": "ARM",
+      "target": "AZE"
+    },
+    {
+      "source": "ARM",
+      "target": "TUR"
+    },
+    {
+      "source": "ARM",
+      "target": "IRN"
+    },
+    {
+      "source": "DNK",
+      "target": "DEU"
+    },
+    {
+      "source": "LBY",
+      "target": "TUN"
+    },
+    {
+      "source": "LBY",
+      "target": "SDN"
+    },
+    {
+      "source": "LBY",
+      "target": "TCD"
+    },
+    {
+      "source": "LBY",
+      "target": "DZA"
+    },
+    {
+      "source": "LBY",
+      "target": "NER"
+    },
+    {
+      "source": "LBY",
+      "target": "EGY"
+    },
+    {
+      "source": "TUN",
+      "target": "LBY"
+    },
+    {
+      "source": "TUN",
+      "target": "DZA"
+    },
+    {
+      "source": "ROU",
+      "target": "UKR"
+    },
+    {
+      "source": "ROU",
+      "target": "HUN"
+    },
+    {
+      "source": "ROU",
+      "target": "SRB"
+    },
+    {
+      "source": "ROU",
+      "target": "BGR"
+    },
+    {
+      "source": "ROU",
+      "target": "MDA"
+    },
+    {
+      "source": "HUN",
+      "target": "UKR"
+    },
+    {
+      "source": "HUN",
+      "target": "ROU"
+    },
+    {
+      "source": "HUN",
+      "target": "SVK"
+    },
+    {
+      "source": "HUN",
+      "target": "AUT"
+    },
+    {
+      "source": "HUN",
+      "target": "SRB"
+    },
+    {
+      "source": "HUN",
+      "target": "HRV"
+    },
+    {
+      "source": "HUN",
+      "target": "SVN"
+    },
+    {
+      "source": "SVK",
+      "target": "UKR"
+    },
+    {
+      "source": "SVK",
+      "target": "CZE"
+    },
+    {
+      "source": "SVK",
+      "target": "HUN"
+    },
+    {
+      "source": "SVK",
+      "target": "POL"
+    },
+    {
+      "source": "SVK",
+      "target": "AUT"
+    },
+    {
+      "source": "POL",
+      "target": "UKR"
+    },
+    {
+      "source": "POL",
+      "target": "BLR"
+    },
+    {
+      "source": "POL",
+      "target": "LTU"
+    },
+    {
+      "source": "POL",
+      "target": "RUS"
+    },
+    {
+      "source": "POL",
+      "target": "CZE"
+    },
+    {
+      "source": "POL",
+      "target": "DEU"
+    },
+    {
+      "source": "POL",
+      "target": "SVK"
+    },
+    {
+      "source": "IRL",
+      "target": "GBR"
+    },
+    {
+      "source": "GBR",
+      "target": "IRL"
+    },
+    {
+      "source": "GRC",
+      "target": "MKD"
+    },
+    {
+      "source": "GRC",
+      "target": "ALB"
+    },
+    {
+      "source": "GRC",
+      "target": "TUR"
+    },
+    {
+      "source": "GRC",
+      "target": "BGR"
+    },
+    {
+      "source": "ZMB",
+      "target": "MWI"
+    },
+    {
+      "source": "ZMB",
+      "target": "TZA"
+    },
+    {
+      "source": "ZMB",
+      "target": "COD"
+    },
+    {
+      "source": "ZMB",
+      "target": "NAM"
+    },
+    {
+      "source": "ZMB",
+      "target": "AGO"
+    },
+    {
+      "source": "ZMB",
+      "target": "ZWE"
+    },
+    {
+      "source": "ZMB",
+      "target": "MOZ"
+    },
+    {
+      "source": "SLE",
+      "target": "GIN"
+    },
+    {
+      "source": "SLE",
+      "target": "LBR"
+    },
+    {
+      "source": "GIN",
+      "target": "SLE"
+    },
+    {
+      "source": "GIN",
+      "target": "LBR"
+    },
+    {
+      "source": "GIN",
+      "target": "CIV"
+    },
+    {
+      "source": "GIN",
+      "target": "MLI"
+    },
+    {
+      "source": "GIN",
+      "target": "SEN"
+    },
+    {
+      "source": "GIN",
+      "target": "GNB"
+    },
+    {
+      "source": "LBR",
+      "target": "SLE"
+    },
+    {
+      "source": "LBR",
+      "target": "GIN"
+    },
+    {
+      "source": "LBR",
+      "target": "CIV"
+    },
+    {
+      "source": "CAF",
+      "target": "SSD"
+    },
+    {
+      "source": "CAF",
+      "target": "COG"
+    },
+    {
+      "source": "CAF",
+      "target": "COD"
+    },
+    {
+      "source": "CAF",
+      "target": "SDN"
+    },
+    {
+      "source": "CAF",
+      "target": "TCD"
+    },
+    {
+      "source": "CAF",
+      "target": "CMR"
+    },
+    {
+      "source": "SDN",
+      "target": "ETH"
+    },
+    {
+      "source": "SDN",
+      "target": "SSD"
+    },
+    {
+      "source": "SDN",
+      "target": "LBY"
+    },
+    {
+      "source": "SDN",
+      "target": "CAF"
+    },
+    {
+      "source": "SDN",
+      "target": "ERI"
+    },
+    {
+      "source": "SDN",
+      "target": "TCD"
+    },
+    {
+      "source": "SDN",
+      "target": "EGY"
+    },
+    {
+      "source": "DJI",
+      "target": "ETH"
+    },
+    {
+      "source": "DJI",
+      "target": "-99"
+    },
+    {
+      "source": "DJI",
+      "target": "ERI"
+    },
+    {
+      "source": "ERI",
+      "target": "ETH"
+    },
+    {
+      "source": "ERI",
+      "target": "SDN"
+    },
+    {
+      "source": "ERI",
+      "target": "DJI"
+    },
+    {
+      "source": "AUT",
+      "target": "CZE"
+    },
+    {
+      "source": "AUT",
+      "target": "DEU"
+    },
+    {
+      "source": "AUT",
+      "target": "HUN"
+    },
+    {
+      "source": "AUT",
+      "target": "SVK"
+    },
+    {
+      "source": "AUT",
+      "target": "ITA"
+    },
+    {
+      "source": "AUT",
+      "target": "CHE"
+    },
+    {
+      "source": "AUT",
+      "target": "LIE"
+    },
+    {
+      "source": "AUT",
+      "target": "SVN"
+    },
+    {
+      "source": "IRQ",
+      "target": "SYR"
+    },
+    {
+      "source": "IRQ",
+      "target": "TUR"
+    },
+    {
+      "source": "IRQ",
+      "target": "IRN"
+    },
+    {
+      "source": "IRQ",
+      "target": "SAU"
+    },
+    {
+      "source": "IRQ",
+      "target": "KWT"
+    },
+    {
+      "source": "IRQ",
+      "target": "JOR"
+    },
+    {
+      "source": "ITA",
+      "target": "-99"
+    },
+    {
+      "source": "ITA",
+      "target": "AUT"
+    },
+    {
+      "source": "ITA",
+      "target": "CHE"
+    },
+    {
+      "source": "ITA",
+      "target": "SVN"
+    },
+    {
+      "source": "ITA",
+      "target": "SMR"
+    },
+    {
+      "source": "ITA",
+      "target": "VAT"
+    },
+    {
+      "source": "CHE",
+      "target": "-99"
+    },
+    {
+      "source": "CHE",
+      "target": "DEU"
+    },
+    {
+      "source": "CHE",
+      "target": "AUT"
+    },
+    {
+      "source": "CHE",
+      "target": "ITA"
+    },
+    {
+      "source": "CHE",
+      "target": "LIE"
+    },
+    {
+      "source": "IRN",
+      "target": "PAK"
+    },
+    {
+      "source": "IRN",
+      "target": "AZE"
+    },
+    {
+      "source": "IRN",
+      "target": "TUR"
+    },
+    {
+      "source": "IRN",
+      "target": "ARM"
+    },
+    {
+      "source": "IRN",
+      "target": "IRQ"
+    },
+    {
+      "source": "IRN",
+      "target": "AFG"
+    },
+    {
+      "source": "IRN",
+      "target": "TKM"
+    },
+    {
+      "source": "NLD",
+      "target": "DEU"
+    },
+    {
+      "source": "NLD",
+      "target": "BEL"
+    },
+    {
+      "source": "LIE",
+      "target": "AUT"
+    },
+    {
+      "source": "LIE",
+      "target": "CHE"
+    },
+    {
+      "source": "CIV",
+      "target": "GIN"
+    },
+    {
+      "source": "CIV",
+      "target": "LBR"
+    },
+    {
+      "source": "CIV",
+      "target": "MLI"
+    },
+    {
+      "source": "CIV",
+      "target": "BFA"
+    },
+    {
+      "source": "CIV",
+      "target": "GHA"
+    },
+    {
+      "source": "SRB",
+      "target": "MKD"
+    },
+    {
+      "source": "SRB",
+      "target": "-99"
+    },
+    {
+      "source": "SRB",
+      "target": "ROU"
+    },
+    {
+      "source": "SRB",
+      "target": "HUN"
+    },
+    {
+      "source": "SRB",
+      "target": "HRV"
+    },
+    {
+      "source": "SRB",
+      "target": "BGR"
+    },
+    {
+      "source": "SRB",
+      "target": "MNE"
+    },
+    {
+      "source": "SRB",
+      "target": "BIH"
+    },
+    {
+      "source": "MLI",
+      "target": "GIN"
+    },
+    {
+      "source": "MLI",
+      "target": "CIV"
+    },
+    {
+      "source": "MLI",
+      "target": "SEN"
+    },
+    {
+      "source": "MLI",
+      "target": "DZA"
+    },
+    {
+      "source": "MLI",
+      "target": "NER"
+    },
+    {
+      "source": "MLI",
+      "target": "BFA"
+    },
+    {
+      "source": "MLI",
+      "target": "MRT"
+    },
+    {
+      "source": "SEN",
+      "target": "GIN"
+    },
+    {
+      "source": "SEN",
+      "target": "MLI"
+    },
+    {
+      "source": "SEN",
+      "target": "GNB"
+    },
+    {
+      "source": "SEN",
+      "target": "MRT"
+    },
+    {
+      "source": "SEN",
+      "target": "GMB"
+    },
+    {
+      "source": "NGA",
+      "target": "BEN"
+    },
+    {
+      "source": "NGA",
+      "target": "TCD"
+    },
+    {
+      "source": "NGA",
+      "target": "CMR"
+    },
+    {
+      "source": "NGA",
+      "target": "NER"
+    },
+    {
+      "source": "BEN",
+      "target": "NGA"
+    },
+    {
+      "source": "BEN",
+      "target": "NER"
+    },
+    {
+      "source": "BEN",
+      "target": "BFA"
+    },
+    {
+      "source": "BEN",
+      "target": "TGO"
+    },
+    {
+      "source": "AGO",
+      "target": "COG"
+    },
+    {
+      "source": "AGO",
+      "target": "COD"
+    },
+    {
+      "source": "AGO",
+      "target": "NAM"
+    },
+    {
+      "source": "AGO",
+      "target": "ZMB"
+    },
+    {
+      "source": "HRV",
+      "target": "HUN"
+    },
+    {
+      "source": "HRV",
+      "target": "SRB"
+    },
+    {
+      "source": "HRV",
+      "target": "SVN"
+    },
+    {
+      "source": "HRV",
+      "target": "MNE"
+    },
+    {
+      "source": "HRV",
+      "target": "BIH"
+    },
+    {
+      "source": "SVN",
+      "target": "HUN"
+    },
+    {
+      "source": "SVN",
+      "target": "AUT"
+    },
+    {
+      "source": "SVN",
+      "target": "ITA"
+    },
+    {
+      "source": "SVN",
+      "target": "HRV"
+    },
+    {
+      "source": "QAT",
+      "target": "SAU"
+    },
+    {
+      "source": "SAU",
+      "target": "OMN"
+    },
+    {
+      "source": "SAU",
+      "target": "ARE"
+    },
+    {
+      "source": "SAU",
+      "target": "IRQ"
+    },
+    {
+      "source": "SAU",
+      "target": "QAT"
+    },
+    {
+      "source": "SAU",
+      "target": "KWT"
+    },
+    {
+      "source": "SAU",
+      "target": "JOR"
+    },
+    {
+      "source": "SAU",
+      "target": "YEM"
+    },
+    {
+      "source": "BWA",
+      "target": "NAM"
+    },
+    {
+      "source": "BWA",
+      "target": "ZAF"
+    },
+    {
+      "source": "BWA",
+      "target": "ZWE"
+    },
+    {
+      "source": "ZWE",
+      "target": "ZAF"
+    },
+    {
+      "source": "ZWE",
+      "target": "ZMB"
+    },
+    {
+      "source": "ZWE",
+      "target": "BWA"
+    },
+    {
+      "source": "ZWE",
+      "target": "MOZ"
+    },
+    {
+      "source": "BGR",
+      "target": "MKD"
+    },
+    {
+      "source": "BGR",
+      "target": "TUR"
+    },
+    {
+      "source": "BGR",
+      "target": "ROU"
+    },
+    {
+      "source": "BGR",
+      "target": "GRC"
+    },
+    {
+      "source": "BGR",
+      "target": "SRB"
+    },
+    {
+      "source": "THA",
+      "target": "MYS"
+    },
+    {
+      "source": "THA",
+      "target": "KHM"
+    },
+    {
+      "source": "THA",
+      "target": "LAO"
+    },
+    {
+      "source": "THA",
+      "target": "MMR"
+    },
+    {
+      "source": "SMR",
+      "target": "ITA"
+    },
+    {
+      "source": "HTI",
+      "target": "DOM"
+    },
+    {
+      "source": "DOM",
+      "target": "HTI"
+    },
+    {
+      "source": "TCD",
+      "target": "LBY"
+    },
+    {
+      "source": "TCD",
+      "target": "CAF"
+    },
+    {
+      "source": "TCD",
+      "target": "SDN"
+    },
+    {
+      "source": "TCD",
+      "target": "NGA"
+    },
+    {
+      "source": "TCD",
+      "target": "CMR"
+    },
+    {
+      "source": "TCD",
+      "target": "NER"
+    },
+    {
+      "source": "KWT",
+      "target": "IRQ"
+    },
+    {
+      "source": "KWT",
+      "target": "SAU"
+    },
+    {
+      "source": "SLV",
+      "target": "GTM"
+    },
+    {
+      "source": "SLV",
+      "target": "HND"
+    },
+    {
+      "source": "GTM",
+      "target": "SLV"
+    },
+    {
+      "source": "GTM",
+      "target": "HND"
+    },
+    {
+      "source": "GTM",
+      "target": "MEX"
+    },
+    {
+      "source": "GTM",
+      "target": "BLZ"
+    },
+    {
+      "source": "TLS",
+      "target": "IDN"
+    },
+    {
+      "source": "BRN",
+      "target": "MYS"
+    },
+    {
+      "source": "MCO",
+      "target": "-99"
+    },
+    {
+      "source": "DZA",
+      "target": "MAR"
+    },
+    {
+      "source": "DZA",
+      "target": "ESH"
+    },
+    {
+      "source": "DZA",
+      "target": "LBY"
+    },
+    {
+      "source": "DZA",
+      "target": "TUN"
+    },
+    {
+      "source": "DZA",
+      "target": "MLI"
+    },
+    {
+      "source": "DZA",
+      "target": "NER"
+    },
+    {
+      "source": "DZA",
+      "target": "MRT"
+    },
+    {
+      "source": "MOZ",
+      "target": "MWI"
+    },
+    {
+      "source": "MOZ",
+      "target": "TZA"
+    },
+    {
+      "source": "MOZ",
+      "target": "ZAF"
+    },
+    {
+      "source": "MOZ",
+      "target": "ZMB"
+    },
+    {
+      "source": "MOZ",
+      "target": "ZWE"
+    },
+    {
+      "source": "MOZ",
+      "target": "SWZ"
+    },
+    {
+      "source": "SWZ",
+      "target": "ZAF"
+    },
+    {
+      "source": "SWZ",
+      "target": "MOZ"
+    },
+    {
+      "source": "BDI",
+      "target": "TZA"
+    },
+    {
+      "source": "BDI",
+      "target": "COD"
+    },
+    {
+      "source": "BDI",
+      "target": "RWA"
+    },
+    {
+      "source": "RWA",
+      "target": "TZA"
+    },
+    {
+      "source": "RWA",
+      "target": "COD"
+    },
+    {
+      "source": "RWA",
+      "target": "BDI"
+    },
+    {
+      "source": "RWA",
+      "target": "UGA"
+    },
+    {
+      "source": "MMR",
+      "target": "IND"
+    },
+    {
+      "source": "MMR",
+      "target": "CHN"
+    },
+    {
+      "source": "MMR",
+      "target": "LAO"
+    },
+    {
+      "source": "MMR",
+      "target": "THA"
+    },
+    {
+      "source": "MMR",
+      "target": "BGD"
+    },
+    {
+      "source": "BGD",
+      "target": "IND"
+    },
+    {
+      "source": "BGD",
+      "target": "MMR"
+    },
+    {
+      "source": "AND",
+      "target": "-99"
+    },
+    {
+      "source": "AND",
+      "target": "ESP"
+    },
+    {
+      "source": "AFG",
+      "target": "CHN"
+    },
+    {
+      "source": "AFG",
+      "target": "PAK"
+    },
+    {
+      "source": "AFG",
+      "target": "UZB"
+    },
+    {
+      "source": "AFG",
+      "target": "TJK"
+    },
+    {
+      "source": "AFG",
+      "target": "IRN"
+    },
+    {
+      "source": "AFG",
+      "target": "TKM"
+    },
+    {
+      "source": "MNE",
+      "target": "ALB"
+    },
+    {
+      "source": "MNE",
+      "target": "-99"
+    },
+    {
+      "source": "MNE",
+      "target": "SRB"
+    },
+    {
+      "source": "MNE",
+      "target": "HRV"
+    },
+    {
+      "source": "MNE",
+      "target": "BIH"
+    },
+    {
+      "source": "BIH",
+      "target": "SRB"
+    },
+    {
+      "source": "BIH",
+      "target": "HRV"
+    },
+    {
+      "source": "BIH",
+      "target": "MNE"
+    },
+    {
+      "source": "UGA",
+      "target": "SSD"
+    },
+    {
+      "source": "UGA",
+      "target": "KEN"
+    },
+    {
+      "source": "UGA",
+      "target": "TZA"
+    },
+    {
+      "source": "UGA",
+      "target": "COD"
+    },
+    {
+      "source": "UGA",
+      "target": "RWA"
+    },
+    {
+      "source": "-99",
+      "target": "CUB"
+    },
+    {
+      "source": "CUB",
+      "target": "-99"
+    },
+    {
+      "source": "HND",
+      "target": "NIC"
+    },
+    {
+      "source": "HND",
+      "target": "SLV"
+    },
+    {
+      "source": "HND",
+      "target": "GTM"
+    },
+    {
+      "source": "ECU",
+      "target": "PER"
+    },
+    {
+      "source": "ECU",
+      "target": "COL"
+    },
+    {
+      "source": "COL",
+      "target": "PER"
+    },
+    {
+      "source": "COL",
+      "target": "BRA"
+    },
+    {
+      "source": "COL",
+      "target": "ECU"
+    },
+    {
+      "source": "COL",
+      "target": "PAN"
+    },
+    {
+      "source": "COL",
+      "target": "VEN"
+    },
+    {
+      "source": "PRY",
+      "target": "BOL"
+    },
+    {
+      "source": "PRY",
+      "target": "ARG"
+    },
+    {
+      "source": "PRY",
+      "target": "BRA"
+    },
+    {
+      "source": "PRT",
+      "target": "ESP"
+    },
+    {
+      "source": "MDA",
+      "target": "UKR"
+    },
+    {
+      "source": "MDA",
+      "target": "ROU"
+    },
+    {
+      "source": "TKM",
+      "target": "UZB"
+    },
+    {
+      "source": "TKM",
+      "target": "KAZ"
+    },
+    {
+      "source": "TKM",
+      "target": "IRN"
+    },
+    {
+      "source": "TKM",
+      "target": "AFG"
+    },
+    {
+      "source": "JOR",
+      "target": "ISR"
+    },
+    {
+      "source": "JOR",
+      "target": "PSE"
+    },
+    {
+      "source": "JOR",
+      "target": "SYR"
+    },
+    {
+      "source": "JOR",
+      "target": "IRQ"
+    },
+    {
+      "source": "JOR",
+      "target": "SAU"
+    },
+    {
+      "source": "NPL",
+      "target": "IND"
+    },
+    {
+      "source": "NPL",
+      "target": "CHN"
+    },
+    {
+      "source": "LSO",
+      "target": "ZAF"
+    },
+    {
+      "source": "CMR",
+      "target": "COG"
+    },
+    {
+      "source": "CMR",
+      "target": "CAF"
+    },
+    {
+      "source": "CMR",
+      "target": "NGA"
+    },
+    {
+      "source": "CMR",
+      "target": "TCD"
+    },
+    {
+      "source": "CMR",
+      "target": "GAB"
+    },
+    {
+      "source": "CMR",
+      "target": "GNQ"
+    },
+    {
+      "source": "GAB",
+      "target": "COG"
+    },
+    {
+      "source": "GAB",
+      "target": "CMR"
+    },
+    {
+      "source": "GAB",
+      "target": "GNQ"
+    },
+    {
+      "source": "NER",
+      "target": "LBY"
+    },
+    {
+      "source": "NER",
+      "target": "MLI"
+    },
+    {
+      "source": "NER",
+      "target": "NGA"
+    },
+    {
+      "source": "NER",
+      "target": "BEN"
+    },
+    {
+      "source": "NER",
+      "target": "TCD"
+    },
+    {
+      "source": "NER",
+      "target": "DZA"
+    },
+    {
+      "source": "NER",
+      "target": "BFA"
+    },
+    {
+      "source": "BFA",
+      "target": "CIV"
+    },
+    {
+      "source": "BFA",
+      "target": "MLI"
+    },
+    {
+      "source": "BFA",
+      "target": "BEN"
+    },
+    {
+      "source": "BFA",
+      "target": "NER"
+    },
+    {
+      "source": "BFA",
+      "target": "TGO"
+    },
+    {
+      "source": "BFA",
+      "target": "GHA"
+    },
+    {
+      "source": "TGO",
+      "target": "BEN"
+    },
+    {
+      "source": "TGO",
+      "target": "BFA"
+    },
+    {
+      "source": "TGO",
+      "target": "GHA"
+    },
+    {
+      "source": "GHA",
+      "target": "CIV"
+    },
+    {
+      "source": "GHA",
+      "target": "BFA"
+    },
+    {
+      "source": "GHA",
+      "target": "TGO"
+    },
+    {
+      "source": "GNB",
+      "target": "GIN"
+    },
+    {
+      "source": "GNB",
+      "target": "SEN"
+    },
+    {
+      "source": "GIB",
+      "target": "ESP"
+    },
+    {
+      "source": "USA",
+      "target": "CAN"
+    },
+    {
+      "source": "USA",
+      "target": "MEX"
+    },
+    {
+      "source": "CAN",
+      "target": "USA"
+    },
+    {
+      "source": "MEX",
+      "target": "GTM"
+    },
+    {
+      "source": "MEX",
+      "target": "USA"
+    },
+    {
+      "source": "MEX",
+      "target": "BLZ"
+    },
+    {
+      "source": "BLZ",
+      "target": "GTM"
+    },
+    {
+      "source": "BLZ",
+      "target": "MEX"
+    },
+    {
+      "source": "PAN",
+      "target": "CRI"
+    },
+    {
+      "source": "PAN",
+      "target": "COL"
+    },
+    {
+      "source": "VEN",
+      "target": "GUY"
+    },
+    {
+      "source": "VEN",
+      "target": "BRA"
+    },
+    {
+      "source": "VEN",
+      "target": "COL"
+    },
+    {
+      "source": "PNG",
+      "target": "IDN"
+    },
+    {
+      "source": "EGY",
+      "target": "ISR"
+    },
+    {
+      "source": "EGY",
+      "target": "PSE"
+    },
+    {
+      "source": "EGY",
+      "target": "LBY"
+    },
+    {
+      "source": "EGY",
+      "target": "SDN"
+    },
+    {
+      "source": "YEM",
+      "target": "OMN"
+    },
+    {
+      "source": "YEM",
+      "target": "SAU"
+    },
+    {
+      "source": "MRT",
+      "target": "ESH"
+    },
+    {
+      "source": "MRT",
+      "target": "MLI"
+    },
+    {
+      "source": "MRT",
+      "target": "SEN"
+    },
+    {
+      "source": "MRT",
+      "target": "DZA"
+    },
+    {
+      "source": "GNQ",
+      "target": "CMR"
+    },
+    {
+      "source": "GNQ",
+      "target": "GAB"
+    },
+    {
+      "source": "GMB",
+      "target": "SEN"
+    },
+    {
+      "source": "HKG",
+      "target": "CHN"
+    },
+    {
+      "source": "VAT",
+      "target": "ITA"
+    },
+    {
+      "source": "-99",
+      "target": "-99"
+    },
+    {
+      "source": "-99",
+      "target": "-99"
+    },
+    {
+      "source": "-99",
+      "target": "-99"
+    },
+    {
+      "source": "-99",
+      "target": "CYP"
+    },
+    {
+      "source": "-99",
+      "target": "-99"
+    },
+    {
+      "source": "-99",
+      "target": "IND"
+    },
+    {
+      "source": "-99",
+      "target": "CHN"
+    },
+    {
+      "source": "-99",
+      "target": "PAK"
+    },
+    {
+      "source": "-99",
+      "target": "KAZ"
+    },
+    {
+      "source": "-99",
+      "target": "CYP"
+    }
+  ]
+}
